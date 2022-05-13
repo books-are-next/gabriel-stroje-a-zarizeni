@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Stroje a zařízení</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>POULIČNÍ BLESKY</text>
+      </navLabel>
+      <content src="Text/stroje_a_zarizeni_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Dopoledne</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_006.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Nebudu vám namlouvat…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_007.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Každá smrt má své stíny</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_008.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Nové příběhy na starých…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_009.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Nemáme co nabídnout…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_010.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Tužkou měříš stíny…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_011.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Vrstva po vrstvě</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_012.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Napřesrok skoč…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_013.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Překážky</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_014.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Jen tak</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_015.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Příměří</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_016.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Letní klobouky přeplouvají…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_017.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Anatomický atlas</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_018.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Cestování</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_019.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Na Kampě</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_020.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Turistická sezóna</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_021.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Veřejné záchodky…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_022.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Objevují se jen za bouřky…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_023.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Náměstí</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_024.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Letní blesky</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_025.xhtml#_idParaDest-21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>NÁLEZY</text>
+      </navLabel>
+      <content src="Text/stroje_a_zarizeni_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>NA KONCI TÝDNE</text>
+      </navLabel>
+      <content src="Text/stroje_a_zarizeni_028.xhtml#_idParaDest-23"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Spolu…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>U vedlejšího stolu</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Přivítat hosty…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Chodníky…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Každá barva…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>V účesech dam…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Dívali se na mě…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Bez překvapení</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Prší ale nekouří…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Mít špalky na míru…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Stránka dětství</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Dřevěný plot jen jako pták…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Vzpomínka</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Otevřeno</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Duté stromy a bouřka…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Banky prý nezmizí</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Album známek</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Pozůstalost</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Neřešený problém</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_047.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Vzpomínka</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Velikonoce</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Ohmataní obratlovci…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_050.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Chuck Berry zemřel…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_051.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Obrazy a básně</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_052.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Ulice kreslí své mapy…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_053.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Středy</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_054.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Přesýpací hodiny</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_055.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Cestou</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_056.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Vítání</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_057.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Šustění zpráv…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_058.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Demise</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_059.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Komu psát…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_060.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Setkání</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_061.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Úkoly</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_062.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Táhnout dobou</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_063.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Mohli jsme to tušit…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_064.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Věštby</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_065.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Zápisky</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_066.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Každý den stejný obraz</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_067.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Zájezd</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_068.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>V čase</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_069.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>V zrcadlech</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_070.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Vracím se stromořadím stínů…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_071.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Přidat k jazzu popotahování…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_072.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Pocta roastbeefu</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_073.xhtml#_idParaDest-68"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Roztřesená nonšalance racků…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_074.xhtml#_idParaDest-69"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Na cestě kolem světa</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_075.xhtml#_idParaDest-70"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Byly zde stromy…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_076.xhtml#_idParaDest-71"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>V modré…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_077.xhtml#_idParaDest-72"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Vyhlížet kdo všechno má…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_078.xhtml#_idParaDest-73"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Až kam lze natáhnout ruku…</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_079.xhtml#_idParaDest-74"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>STROJE A ZAŘÍZENÍ</text>
+      </navLabel>
+      <content src="Text/stroje_a_zarizeni_080.xhtml#_idParaDest-75"/>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_082.xhtml#_idParaDest-76"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_083.xhtml#_idParaDest-77"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_084.xhtml#_idParaDest-78"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_085.xhtml#_idParaDest-79"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_086.xhtml#_idParaDest-80"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>*</text>
+        </navLabel>
+        <content src="Text/stroje_a_zarizeni_087.xhtml#_idParaDest-81"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

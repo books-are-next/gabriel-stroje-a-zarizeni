@@ -1,0 +1,114 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Stroje a zařízení
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jan Gabriel
+  publisher: Městská knihovna v Praze
+  modified: '2021-10-22T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - stroje_a_zarizeni_001.html
+  - stroje_a_zarizeni_002.html
+  - stroje_a_zarizeni_003.html
+  - stroje_a_zarizeni_004.html
+  - stroje_a_zarizeni_005.html
+  - stroje_a_zarizeni_006.html
+  - stroje_a_zarizeni_007.html
+  - stroje_a_zarizeni_008.html
+  - stroje_a_zarizeni_009.html
+  - stroje_a_zarizeni_010.html
+  - stroje_a_zarizeni_011.html
+  - stroje_a_zarizeni_012.html
+  - stroje_a_zarizeni_013.html
+  - stroje_a_zarizeni_014.html
+  - stroje_a_zarizeni_015.html
+  - stroje_a_zarizeni_016.html
+  - stroje_a_zarizeni_017.html
+  - stroje_a_zarizeni_018.html
+  - stroje_a_zarizeni_019.html
+  - stroje_a_zarizeni_020.html
+  - stroje_a_zarizeni_021.html
+  - stroje_a_zarizeni_022.html
+  - stroje_a_zarizeni_023.html
+  - stroje_a_zarizeni_024.html
+  - stroje_a_zarizeni_025.html
+  - stroje_a_zarizeni_026.html
+  - stroje_a_zarizeni_027.html
+  - stroje_a_zarizeni_028.html
+  - stroje_a_zarizeni_029.html
+  - stroje_a_zarizeni_030.html
+  - stroje_a_zarizeni_031.html
+  - stroje_a_zarizeni_032.html
+  - stroje_a_zarizeni_033.html
+  - stroje_a_zarizeni_034.html
+  - stroje_a_zarizeni_035.html
+  - stroje_a_zarizeni_036.html
+  - stroje_a_zarizeni_037.html
+  - stroje_a_zarizeni_038.html
+  - stroje_a_zarizeni_039.html
+  - stroje_a_zarizeni_040.html
+  - stroje_a_zarizeni_041.html
+  - stroje_a_zarizeni_042.html
+  - stroje_a_zarizeni_043.html
+  - stroje_a_zarizeni_044.html
+  - stroje_a_zarizeni_045.html
+  - stroje_a_zarizeni_046.html
+  - stroje_a_zarizeni_047.html
+  - stroje_a_zarizeni_048.html
+  - stroje_a_zarizeni_049.html
+  - stroje_a_zarizeni_050.html
+  - stroje_a_zarizeni_051.html
+  - stroje_a_zarizeni_052.html
+  - stroje_a_zarizeni_053.html
+  - stroje_a_zarizeni_054.html
+  - stroje_a_zarizeni_055.html
+  - stroje_a_zarizeni_056.html
+  - stroje_a_zarizeni_057.html
+  - stroje_a_zarizeni_058.html
+  - stroje_a_zarizeni_059.html
+  - stroje_a_zarizeni_060.html
+  - stroje_a_zarizeni_061.html
+  - stroje_a_zarizeni_062.html
+  - stroje_a_zarizeni_063.html
+  - stroje_a_zarizeni_064.html
+  - stroje_a_zarizeni_065.html
+  - stroje_a_zarizeni_066.html
+  - stroje_a_zarizeni_067.html
+  - stroje_a_zarizeni_068.html
+  - stroje_a_zarizeni_069.html
+  - stroje_a_zarizeni_070.html
+  - stroje_a_zarizeni_071.html
+  - stroje_a_zarizeni_072.html
+  - stroje_a_zarizeni_073.html
+  - stroje_a_zarizeni_074.html
+  - stroje_a_zarizeni_075.html
+  - stroje_a_zarizeni_076.html
+  - stroje_a_zarizeni_077.html
+  - stroje_a_zarizeni_078.html
+  - stroje_a_zarizeni_079.html
+  - stroje_a_zarizeni_080.html
+  - stroje_a_zarizeni_081.html
+  - stroje_a_zarizeni_082.html
+  - stroje_a_zarizeni_083.html
+  - stroje_a_zarizeni_084.html
+  - stroje_a_zarizeni_085.html
+  - stroje_a_zarizeni_086.html
+  - stroje_a_zarizeni_087.html
+  - stroje_a_zarizeni_088.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---
