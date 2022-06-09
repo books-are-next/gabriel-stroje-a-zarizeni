@@ -1,20 +1,18 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_Vracím se stromořadím stínů  
+Jako vše co skrývá odpoledne_
 
-> Vracím se stromořadím stínů  
-> Jako vše co skrývá odpoledne
+_Telefony žijí svůj život po kapsách  
+Kdysi byly prádelny plné potoků  
+Zvonily a tloustly  
+Neznámá těla plná pomlček_
 
-> Telefony žijí svůj život po kapsách  
-> Kdysi byly prádelny plné potoků  
-> Zvonily a tloustly  
-> Neznámá těla plná pomlček
+_V protějším okně opět někdo přebaluje větve  
+Rozježděné vůně trávy_
 
-> V protějším okně opět někdo přebaluje větve  
-> Rozježděné vůně trávy
-
-> Kolik kamenů je ještě mezi nadávkami  
-> Kolik barev ve jménu Bonnefoy
+_Kolik kamenů je ještě mezi nadávkami  
+Kolik barev ve jménu Bonnefoy_

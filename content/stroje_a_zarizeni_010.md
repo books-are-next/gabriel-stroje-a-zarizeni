@@ -1,21 +1,19 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_Nemáme co nabídnout  
+Křeslo v němž se odpoledne zbavuje vrásek  
+Portréty matek prohledané stromy_
 
-> Nemáme co nabídnout  
-> Křeslo v němž se odpoledne zbavuje vrásek  
-> Portréty matek prohledané stromy
+_Kouř z cigaret leští okolní nábytek_
 
-> Kouř z cigaret leští okolní nábytek
+_Být dnes moderní  
+Znamená přivlastnit si minulost  
+Dobu  
+Kdy porcelán nebyl povytaženým obočím  
+Kdy nepojmenovatelné křivky  
+Ještě byly letopočtem_
 
-> Být dnes moderní  
-> Znamená přivlastnit si minulost  
-> Dobu  
-> Kdy porcelán nebyl povytaženým obočím  
-> Kdy nepojmenovatelné křivky  
-> Ještě byly letopočtem
-
-> Pohybuj trávou i vavřínem
+_Pohybuj trávou i vavřínem_

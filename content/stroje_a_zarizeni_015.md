@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Jen tak
 contentType: prose
 ---
 
-Jen tak
+_No prosím  
+Konec ulice je příštím šlágrem  
+Sám modrý  
+Hoří  
+Ale v herbáři je stále ještě tma  
+Slyším  
+Žádný stůl se nevejde do konce života_
 
-> No prosím  
-> Konec ulice je příštím šlágrem  
-> Sám modrý  
-> Hoří  
-> Ale v herbáři je stále ještě tma  
-> Slyším  
-> Žádný stůl se nevejde do konce života
+_Rusové si v Baden-Badenu navzájem vyměňují  
+Manžetové knoflíčky_
 
-> Rusové si v Baden-Badenu navzájem vyměňují  
-> Manžetové knoflíčky
-
-> Dnes prší i v rukavicích
+_Dnes prší i v rukavicích_

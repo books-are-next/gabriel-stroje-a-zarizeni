@@ -1,19 +1,17 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_Až kam lze natáhnout ruku  
+Až tam kde se louže náhle tváří jako střílny  
+Technické výkresy kde každý milimetr  
+Představuje nečekané dobrodružství  
+Ačkoli jde jen o čáru_
 
-> Až kam lze natáhnout ruku  
-> Až tam kde se louže náhle tváří jako střílny  
-> Technické výkresy kde každý milimetr  
-> Představuje nečekané dobrodružství  
-> Ačkoli jde jen o čáru
+_Pozpátku ale s vyzývavým obočím_
 
-> Pozpátku ale s vyzývavým obočím
-
-> A pak jsou také poštovní známky  
-> Hovězí rozesílané v dopisech  
-> Vylidněný soumrak  
-> Všechny ty tváře bez lidí
+_A pak jsou také poštovní známky  
+Hovězí rozesílané v dopisech  
+Vylidněný soumrak  
+Všechny ty tváře bez lidí_

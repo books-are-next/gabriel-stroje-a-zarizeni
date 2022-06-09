@@ -1,13 +1,11 @@
 ---
-title: ''
+title: Zájezd
 contentType: prose
 ---
 
-Zájezd
+> _Martě_
 
-_Martě_
-
-Kdo ví  
+_Kdo ví  
 Čí břicho první zbledne  
 Některým dámám je ve vzduchu na umření  
 Šustí jako bankovky  
@@ -32,4 +30,4 @@ Jako by právě dnes byla sobota
 Zavíráš okno  
 To souhvězdí je poněkud složité  
 Město není na začátku ani na konci věty  
-Nelze je nakreslit jedním tahem
+Nelze je nakreslit jedním tahem_

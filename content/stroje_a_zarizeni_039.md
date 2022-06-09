@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Stránka dětství
 contentType: prose
 ---
 
-Stránka dětství
+_1  
+Přistát  
+Rozepnout  
+Plandat_
 
-> 1  
-> Přistát  
-> Rozepnout  
-> Plandat
+_2  
+Vyjedený talíř plný slunce  
+Ojíněné kosti svědků_
 
-> 2  
-> Vyjedený talíř plný slunce  
-> Ojíněné kosti svědků
-
-> 3  
-> I rozvázané tkaničky  
-> Patří k dějinám
+_3  
+I rozvázané tkaničky  
+Patří k dějinám_
