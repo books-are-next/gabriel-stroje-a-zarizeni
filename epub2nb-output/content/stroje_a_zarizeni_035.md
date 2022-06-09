@@ -7,15 +7,15 @@ Dívali se na mě
 S vodoměry v dlaních  
 Aby nemuseli nic vysvětlovat
 
-\* \* \*
+_\* \* \*_
 
-> Sluncem vyšisované kalhoty  
-> I na podzim  
-> Ještě kouří cigaretu
+_Sluncem vyšisované kalhoty  
+I na podzim  
+Ještě kouří cigaretu_
 
-\* \* \*
+_\* \* \*_
 
-> Chodci nebo psi  
-> Za sklem  
-> Bílá torza  
-> Pracovních oděvů
+_Chodci nebo psi  
+Za sklem  
+Bílá torza  
+Pracovních oděvů_

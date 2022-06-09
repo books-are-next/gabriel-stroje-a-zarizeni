@@ -8,17 +8,17 @@ je otevřeným oknem
 na řeku  
 obrazu
 
-\* \* \*
+_\* \* \*_
 
-> Stehna  
-> jsou jako  
-> zvonky u dveří  
-> mají  
-> vlastní adresu
+_Stehna  
+jsou jako  
+zvonky u dveří  
+mají  
+vlastní adresu_
 
-\* \* \*
+_\* \* \*_
 
-> Stín  
-> Pod nábytkem  
-> Je  
-> Bezbarvý
+_Stín  
+Pod nábytkem  
+Je  
+Bezbarvý_

@@ -7,14 +7,14 @@ V účesech dam
 Stále  
 Ještě mrholí
 
-\* \* \*
+_\* \* \*_
 
-> Rozmazaný pták  
-> Nad umaštěným talířem  
-> Jako rodné číslo
+_Rozmazaný pták  
+Nad umaštěným talířem  
+Jako rodné číslo_
 
-\* \* \*
+_\* \* \*_
 
-> Každý den  
-> Se jednoho dne  
-> Vyčerpá
+_Každý den  
+Se jednoho dne  
+Vyčerpá_

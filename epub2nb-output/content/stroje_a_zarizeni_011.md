@@ -1,19 +1,17 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_Tužkou měříš stíny  
+Úhlopříčky  
+Křik roztahaný v koutě zahrady_
 
-> Tužkou měříš stíny  
-> Úhlopříčky  
-> Křik roztahaný v koutě zahrady
+_Kolik písmen se ještě skrývá v abecedě  
+Než temné mraky zívnutí  
+Budou jako klobouky_
 
-> Kolik písmen se ještě skrývá v abecedě  
-> Než temné mraky zívnutí  
-> Budou jako klobouky
+_Servírky: duo v průvanu ranních novin_
 
-> Servírky: duo v průvanu ranních novin
-
-> Věčně počmárané zásuvky  
-> Neřekly poslední slovo
+_Věčně počmárané zásuvky  
+Neřekly poslední slovo_

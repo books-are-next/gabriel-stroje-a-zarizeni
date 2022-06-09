@@ -1,19 +1,17 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_V modré  
+Zaokrouhlený letopočet_
 
-> V modré  
-> Zaokrouhlený letopočet
+_Přešlapování uklidňuje_
 
-> Přešlapování uklidňuje
+_Nádor v noci odbíjí  
+Tolik krásných tiků  
+V jednom jediném dopise_
 
-> Nádor v noci odbíjí  
-> Tolik krásných tiků  
-> V jednom jediném dopise
-
-> Společnost v jižním ovoci  
-> Cestuje během večera z jedné metropole  
-> Do druhé
+_Společnost v jižním ovoci  
+Cestuje během večera z jedné metropole  
+Do druhé_

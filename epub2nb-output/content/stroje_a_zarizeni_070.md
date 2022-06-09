@@ -1,18 +1,16 @@
 ---
-title: ''
+title: V zrcadlech
 contentType: prose
 ---
 
-V zrcadlech
+_Prolistovat řeznictví  
+Rozepínat květinářství  
+Minout holičství  
+Ohlédnout se a nevzpomenout si  
+Katastrofy nastříhané v dopisní obálce_
 
-> Prolistovat řeznictví  
-> Rozepínat květinářství  
-> Minout holičství  
-> Ohlédnout se a nevzpomenout si  
-> Katastrofy nastříhané v dopisní obálce
+_Neznám nikoho kdo by na ulici  
+Plival jako já_
 
-> Neznám nikoho kdo by na ulici  
-> Plival jako já
-
-> Budoucnost bezradně bloudí  
-> Rezaví v bledém slunci
+_Budoucnost bezradně bloudí  
+Rezaví v bledém slunci_

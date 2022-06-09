@@ -8,15 +8,15 @@ jsou
 plné  
 svými ňadry
 
-\* \* \*
+_\* \* \*_
 
-> V každé louži  
-> se zrcadlí  
-> i celý román
+_V každé louži  
+se zrcadlí  
+i celý román_
 
-\* \* \*
+_\* \* \*_
 
-> Za bouřky  
-> je slyšet  
-> světlo  
-> křiku
+_Za bouřky  
+je slyšet  
+světlo  
+křiku_

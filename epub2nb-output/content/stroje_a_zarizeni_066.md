@@ -1,23 +1,21 @@
 ---
-title: ''
+title: Zápisky
 contentType: prose
 ---
 
-Zápisky
+_1  
+Ubrousky v jídelních vozech  
+tikaly jako hodinářství._
 
-> 1  
-> Ubrousky v jídelních vozech  
-> tikaly jako hodinářství.
+_2  
+New York Times: Ženy za socialismu  
+si užívaly lepší sex. Ty obnošené hudební nástroje,  
+sukně rozevláté ve švech._
 
-> 2  
-> New York Times: Ženy za socialismu  
-> si užívaly lepší sex. Ty obnošené hudební nástroje,  
-> sukně rozevláté ve švech.
+_3  
+Oblá stehna vynášená z krámu  
+na stříbrném podnose._
 
-> 3  
-> Oblá stehna vynášená z krámu  
-> na stříbrném podnose.
-
-> 4  
-> Nemohl jsem si zvyknout  
-> na svou novou tvář.
+_4  
+Nemohl jsem si zvyknout  
+na svou novou tvář._

@@ -1,20 +1,18 @@
 ---
-title: ''
+title: "*\_*\_*"
 contentType: prose
 ---
 
-\* \* \*
+_Ohmataní obratlovci  
+Nepochybně cestou  
+Jakýpak kámen když je přespolní_
 
-> Ohmataní obratlovci  
-> Nepochybně cestou  
-> Jakýpak kámen když je přespolní
+_Kdesi jsem četl  
+Že v Národním muzeu  
+Kostru velryby napříště nahradí  
+Naučná stezka o kursu koruny_
 
-> Kdesi jsem četl  
-> Že v Národním muzeu  
-> Kostru velryby napříště nahradí  
-> Naučná stezka o kursu koruny
+_Nuda zahajuje novou topnou sezónu_
 
-> Nuda zahajuje novou topnou sezónu
-
-> Co je to ale za společnost  
-> Která neví že je válka
+_Co je to ale za společnost  
+Která neví že je válka_

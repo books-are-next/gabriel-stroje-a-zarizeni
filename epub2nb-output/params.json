@@ -8,21 +8,23 @@
       "modified": "2021-10-22T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -1043,121 +1045,121 @@
         "xhtml": "stroje_a_zarizeni_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopoledne",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_006.md",
         "xhtml": "stroje_a_zarizeni_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_007.md",
         "xhtml": "stroje_a_zarizeni_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Každá smrt má své stíny",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_008.md",
         "xhtml": "stroje_a_zarizeni_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_009.md",
         "xhtml": "stroje_a_zarizeni_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_010.md",
         "xhtml": "stroje_a_zarizeni_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_011.md",
         "xhtml": "stroje_a_zarizeni_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vrstva po vrstvě",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_012.md",
         "xhtml": "stroje_a_zarizeni_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_013.md",
         "xhtml": "stroje_a_zarizeni_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Překážky",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_014.md",
         "xhtml": "stroje_a_zarizeni_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jen tak",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_015.md",
         "xhtml": "stroje_a_zarizeni_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Příměří",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_016.md",
         "xhtml": "stroje_a_zarizeni_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_017.md",
         "xhtml": "stroje_a_zarizeni_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Anatomický atlas",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_018.md",
         "xhtml": "stroje_a_zarizeni_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cestování",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_019.md",
         "xhtml": "stroje_a_zarizeni_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na Kampě",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_020.md",
         "xhtml": "stroje_a_zarizeni_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Turistická sezóna",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_021.md",
         "xhtml": "stroje_a_zarizeni_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_022.md",
         "xhtml": "stroje_a_zarizeni_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_023.md",
         "xhtml": "stroje_a_zarizeni_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Náměstí",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_024.md",
         "xhtml": "stroje_a_zarizeni_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Letní blesky",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_025.md",
         "xhtml": "stroje_a_zarizeni_025.xhtml"
@@ -1181,19 +1183,19 @@
         "xhtml": "stroje_a_zarizeni_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_029.md",
         "xhtml": "stroje_a_zarizeni_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "U vedlejšího stolu",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_030.md",
         "xhtml": "stroje_a_zarizeni_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_031.md",
         "xhtml": "stroje_a_zarizeni_031.xhtml"
@@ -1223,265 +1225,265 @@
         "xhtml": "stroje_a_zarizeni_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bez překvapení",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_036.md",
         "xhtml": "stroje_a_zarizeni_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_037.md",
         "xhtml": "stroje_a_zarizeni_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_038.md",
         "xhtml": "stroje_a_zarizeni_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Stránka dětství",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_039.md",
         "xhtml": "stroje_a_zarizeni_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_040.md",
         "xhtml": "stroje_a_zarizeni_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzpomínka",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_041.md",
         "xhtml": "stroje_a_zarizeni_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Otevřeno",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_042.md",
         "xhtml": "stroje_a_zarizeni_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_043.md",
         "xhtml": "stroje_a_zarizeni_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Banky prý nezmizí",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_044.md",
         "xhtml": "stroje_a_zarizeni_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Album známek",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_045.md",
         "xhtml": "stroje_a_zarizeni_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pozůstalost",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_046.md",
         "xhtml": "stroje_a_zarizeni_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Neřešený problém",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_047.md",
         "xhtml": "stroje_a_zarizeni_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzpomínka",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_048.md",
         "xhtml": "stroje_a_zarizeni_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Velikonoce",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_049.md",
         "xhtml": "stroje_a_zarizeni_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_050.md",
         "xhtml": "stroje_a_zarizeni_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_051.md",
         "xhtml": "stroje_a_zarizeni_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obrazy a básně",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_052.md",
         "xhtml": "stroje_a_zarizeni_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_053.md",
         "xhtml": "stroje_a_zarizeni_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Středy",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_054.md",
         "xhtml": "stroje_a_zarizeni_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přesýpací hodiny",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_055.md",
         "xhtml": "stroje_a_zarizeni_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cestou",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_056.md",
         "xhtml": "stroje_a_zarizeni_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vítání",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_057.md",
         "xhtml": "stroje_a_zarizeni_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_058.md",
         "xhtml": "stroje_a_zarizeni_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Demise",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_059.md",
         "xhtml": "stroje_a_zarizeni_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_060.md",
         "xhtml": "stroje_a_zarizeni_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Setkání",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_061.md",
         "xhtml": "stroje_a_zarizeni_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úkoly",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_062.md",
         "xhtml": "stroje_a_zarizeni_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Táhnout dobou",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_063.md",
         "xhtml": "stroje_a_zarizeni_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_064.md",
         "xhtml": "stroje_a_zarizeni_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věštby",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_065.md",
         "xhtml": "stroje_a_zarizeni_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zápisky",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_066.md",
         "xhtml": "stroje_a_zarizeni_066.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Každý den stejný obraz",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_067.md",
         "xhtml": "stroje_a_zarizeni_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zájezd",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_068.md",
         "xhtml": "stroje_a_zarizeni_068.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V čase",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_069.md",
         "xhtml": "stroje_a_zarizeni_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V zrcadlech",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_070.md",
         "xhtml": "stroje_a_zarizeni_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_071.md",
         "xhtml": "stroje_a_zarizeni_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_072.md",
         "xhtml": "stroje_a_zarizeni_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pocta roastbeefu",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_073.md",
         "xhtml": "stroje_a_zarizeni_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_074.md",
         "xhtml": "stroje_a_zarizeni_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na cestě kolem světa",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_075.md",
         "xhtml": "stroje_a_zarizeni_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_076.md",
         "xhtml": "stroje_a_zarizeni_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_077.md",
         "xhtml": "stroje_a_zarizeni_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_078.md",
         "xhtml": "stroje_a_zarizeni_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_079.md",
         "xhtml": "stroje_a_zarizeni_079.xhtml"
@@ -1499,37 +1501,37 @@
         "xhtml": "stroje_a_zarizeni_081.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_082.md",
         "xhtml": "stroje_a_zarizeni_082.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_083.md",
         "xhtml": "stroje_a_zarizeni_083.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_084.md",
         "xhtml": "stroje_a_zarizeni_084.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_085.md",
         "xhtml": "stroje_a_zarizeni_085.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_086.md",
         "xhtml": "stroje_a_zarizeni_086.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "*",
         "subtitleSuggest": "",
         "filename": "stroje_a_zarizeni_087.md",
         "xhtml": "stroje_a_zarizeni_087.xhtml"
@@ -1609,6 +1611,6 @@
       "user": "books-are-next",
       "repo": "gabriel-stroje-a-zarizeni"
     },
-    "generatedAt": 1652420836692
+    "generatedAt": 1654774429943
   }
 }

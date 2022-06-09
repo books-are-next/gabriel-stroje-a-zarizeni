@@ -3,164 +3,164 @@ title: ''
 contentType: prose
 ---
 
-> Hřbitovy vyřeší všechny problémy za nás
+_Hřbitovy vyřeší všechny problémy za nás_
 
-\*
+_\*_
 
-> Neříkejte stmívání
+_Neříkejte stmívání_
 
-\*
+_\*_
 
-> Příští pondělí bude zase v pondělí
+_Příští pondělí bude zase v pondělí_
 
-\*
+_\*_
 
-> Náhlé ticho za výkřikem stačí zaplnit celý talíř
+_Náhlé ticho za výkřikem stačí zaplnit celý talíř_
 
-\*
+_\*_
 
-> I fragmentu stále chybí kus fragmentu
+_I fragmentu stále chybí kus fragmentu_
 
-\*
+_\*_
 
-> Vlasy ujíždějící v noční tramvaji se mění  
->      v nečekaný účes
+_Vlasy ujíždějící v noční tramvaji se mění  
+     v nečekaný účes_
 
-\*
+_\*_
 
-> Překvapení: po čtyřiceti letech přišla jen holka  
->      z vesnice
+_Překvapení: po čtyřiceti letech přišla jen holka  
+     z vesnice_
 
-\*
+_\*_
 
-> Příměří: vychutnat oběd, každé večeři vdechnout  
->      vůni prožitého dne
+_Příměří: vychutnat oběd, každé večeři vdechnout  
+     vůni prožitého dne_
 
-\*
+_\*_
 
-> I blbý děti musejí mít v pořádku doklady
+_I blbý děti musejí mít v pořádku doklady_
 
-\*
+_\*_
 
-> Kabáty se samy od sebe řadí do fronty na počasí
+_Kabáty se samy od sebe řadí do fronty na počasí_
 
-\*
+_\*_
 
-> Kdo se uculuje, ještě není zrcadlem
+_Kdo se uculuje, ještě není zrcadlem_
 
-\*
+_\*_
 
-> V každé krajině najdeme zaprášenou vitrínu  
->      vzpomínek
+_V každé krajině najdeme zaprášenou vitrínu  
+     vzpomínek_
 
-\*
+_\*_
 
-> Opera nabízí přehlídku dam vyhřezlých z podzimní  
->      krajiny
+_Opera nabízí přehlídku dam vyhřezlých z podzimní  
+     krajiny_
 
-\*
+_\*_
 
-> Léto: Dětské šaty vyzvánějí v telefonu
+_Léto: Dětské šaty vyzvánějí v telefonu_
 
-\*
+_\*_
 
-> Půlnoční Benátky dál přežívají v záhybech ubrusů
+_Půlnoční Benátky dál přežívají v záhybech ubrusů_
 
-\*
+_\*_
 
-> Když se roztrhne pytel, je v něm zase čínské bistro
+_Když se roztrhne pytel, je v něm zase čínské bistro_
 
-\*
+_\*_
 
-> Na nočním stolku sám Palacký
+_Na nočním stolku sám Palacký_
 
-\*
+_\*_
 
-> Turistický ruch ožívá s každým pokrčením ramen
+_Turistický ruch ožívá s každým pokrčením ramen_
 
-\*
+_\*_
 
-> Slovo zítřek nás dříve nebo později omrzí
+_Slovo zítřek nás dříve nebo později omrzí_
 
-\*
+_\*_
 
-> Saka urousaná adresami rozhovorů
+_Saka urousaná adresami rozhovorů_
 
-\*
+_\*_
 
-> Déšť už předem ví, že okolní svět je lhostejný  
->      k nažehleným kapesníkům
+_Déšť už předem ví, že okolní svět je lhostejný  
+     k nažehleným kapesníkům_
 
-\*
+_\*_
 
-> I ve spodním prádle občas svítá
+_I ve spodním prádle občas svítá_
 
-\*
+_\*_
 
-> Rozpaky nohavic se vyhrnuly ze tmy do světla
+_Rozpaky nohavic se vyhrnuly ze tmy do světla_
 
-\*
+_\*_
 
-> Přišla a v náručí svírala celý zimní stadion
+_Přišla a v náručí svírala celý zimní stadion_
 
-\*
+_\*_
 
-> Lesy plné střelného prachu již potřetí v té  
->      samé krajině
+_Lesy plné střelného prachu již potřetí v té  
+     samé krajině_
 
-\*
+_\*_
 
-> Lidovecký trik: Popotahovat nosem nad mapou Asie
+_Lidovecký trik: Popotahovat nosem nad mapou Asie_
 
-\*
+_\*_
 
-> Tažní ptáci poletují sem a tam jako středověké mapy
+_Tažní ptáci poletují sem a tam jako středověké mapy_
 
-\*
+_\*_
 
-> Vzácné rostliny nepochybují o troskách stínu
+_Vzácné rostliny nepochybují o troskách stínu_
 
-\*
+_\*_
 
-> Po probuzení: Prázdné sudy a pytle brambor
+_Po probuzení: Prázdné sudy a pytle brambor_
 
-\*
+_\*_
 
-> Kačer Donald dohlíží na hygienu žáků
+_Kačer Donald dohlíží na hygienu žáků_
 
-\*
+_\*_
 
-> Jak říkáš, tolik jmen je na střídavý proud
+_Jak říkáš, tolik jmen je na střídavý proud_
 
-\*
+_\*_
 
-> Kukátka orosená dojetím a vlci v jednotlivých  
->      předmětech
+_Kukátka orosená dojetím a vlci v jednotlivých  
+     předmětech_
 
-\*
+_\*_
 
-> Tykat si s přírodou v zahradní restauraci
+_Tykat si s přírodou v zahradní restauraci_
 
-\*
+_\*_
 
-> Ploty z podrážek a oprýskaných hrnců trucují  
->      ve tmě
+_Ploty z podrážek a oprýskaných hrnců trucují  
+     ve tmě_
 
-\*
+_\*_
 
-> Rozházené chloupky v pralese, který nemá žádnou  
->      barvu
+_Rozházené chloupky v pralese, který nemá žádnou  
+     barvu_
 
-\*
+_\*_
 
-> Otázka: Kolik mraků se vejde do jednoho kufru?
+_Otázka: Kolik mraků se vejde do jednoho kufru?_
 
-\*
+_\*_
 
-> Nesplněný sen: Stoupat po jezdících schodech  
->      do čtvrtého patra Beaubourgu a zahlédnout  
->      Rastignaka
+_Nesplněný sen: Stoupat po jezdících schodech  
+     do čtvrtého patra Beaubourgu a zahlédnout  
+     Rastignaka_
 
-\*
+_\*_
 
-> Neznámé pohromy v hrobce přípitku
+_Neznámé pohromy v hrobce přípitku_

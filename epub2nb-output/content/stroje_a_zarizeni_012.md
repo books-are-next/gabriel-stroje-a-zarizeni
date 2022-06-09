@@ -1,28 +1,26 @@
 ---
-title: ''
+title: Vrstva po vrstvě
 contentType: prose
 ---
 
-Vrstva po vrstvě
+_I v černobílých filmech se občas rozsvítí  
+Kapsy plášťů  
+Lesy co se nedaly přečíst  
+Ale o žádný hlavolam nešlo  
+Sotva narýsovaný zločin_
 
-> I v černobílých filmech se občas rozsvítí  
-> Kapsy plášťů  
-> Lesy co se nedaly přečíst  
-> Ale o žádný hlavolam nešlo  
-> Sotva narýsovaný zločin
+_Jinde vychovávají děti ve skříních  
+Je to už několik let  
+Ale fasády protějších domů jsou stále stejné_
 
-> Jinde vychovávají děti ve skříních  
-> Je to už několik let  
-> Ale fasády protějších domů jsou stále stejné
+_Žádné ale_
 
-> Žádné ale
+_Bledé nehty dráždí moře  
+Nikdo náhle nemá čas  
+Bavorský premiér poslal Merkelové autobus  
+     plný uprchlíků  
+Čaj rozsypaný v Jungmannově ulici  
+Kreslí názvy příštích planet  
+Přehlídku ochočených ptáků_
 
-> Bledé nehty dráždí moře  
-> Nikdo náhle nemá čas  
-> Bavorský premiér poslal Merkelové autobus  
->      plný uprchlíků  
-> Čaj rozsypaný v Jungmannově ulici  
-> Kreslí názvy příštích planet  
-> Přehlídku ochočených ptáků
-
-> Jen si vzpomeň co všechno ještě lítá
+_Jen si vzpomeň co všechno ještě lítá_
