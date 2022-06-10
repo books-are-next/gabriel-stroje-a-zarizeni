@@ -3,6 +3,8 @@ title: Na Kampě
 contentType: prose
 ---
 
+<section>
+
 _Poplácávání zadků  
 Odlesků schnoucích na slunci  
 Trochu moře  
@@ -23,3 +25,5 @@ Ale já se přeci narodil v roce 1949
 Vím není to žádná metafora  
 Kdekdo tvrdí že zvířata mluví  
 Ale jsou to jenom kožešiny_
+
+</section>

@@ -3,6 +3,8 @@ title: Cestování
 contentType: prose
 ---
 
+<section>
+
 _Kdysi jsem se podivoval  
 Kolik lidí je jednookých  
 Co je to za ptáky kteří poletují vysoko nad zemí  
@@ -21,3 +23,5 @@ Island také není jen skopové velryby a sopky
 Island je kapesník  
 Na kterém přistávají letadla  
 Kdesi tiše obchází doutník kolem kulečníku_
+
+</section>

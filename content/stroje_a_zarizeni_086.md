@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _Vinohradské výloha přenesená se vším smetím  
 Do regálů Klementina  
 Kolem nichž se procházím s Teigem s honícími  
@@ -33,8 +35,16 @@ A těsnopisné znaky se směňují ve zdejších
 V poměru jedna ku jedné  
 Nikdo neklepe na dveře_
 
+</section>
+
+<section>
+
 _Jen moře se rozhovoří když si na něj ukazujeme  
      ukazováčkem_
+
+</section>
+
+<section>
 
 _Na knihovnické škole byly všechny sudy stejně  
      velké  
@@ -60,3 +70,5 @@ Jen řekni kdo krmí mosty jaký mrak převaluješ
 V laboratoři vznikl omylem enzym který požírá  
      plasty  
 Komíny v nichž se prodávají ryby na kila_
+
+</section>

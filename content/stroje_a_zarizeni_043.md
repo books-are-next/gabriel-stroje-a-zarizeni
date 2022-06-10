@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Duté stromy a bouřka z mouky  
 Vášnivé úsměvy které již nikoho nevzruší  
 Ani v záhonech není tolik mechu aby byla slyšet  
@@ -13,8 +15,18 @@ Když z dálky jsou vidět jen hrnce v nichž není
 Kabát přehozený přes zeď  
 Končícího dne_
 
+</section>
+
+<section>
+
 _Pivní tácky odlétají  
 Barcelonu přenechali sportovcům  
 Rušnému slunci sirek_
 
+</section>
+
+<section>
+
 _Nikdy nepoznáš chuť dnes už nedostupných likérů_
+
+</section>

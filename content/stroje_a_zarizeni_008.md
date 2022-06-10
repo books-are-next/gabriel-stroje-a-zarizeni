@@ -3,6 +3,8 @@ title: Každá smrt má své stíny
 contentType: prose
 ---
 
+<section>
+
 _Navštěvovat výlohy  
 Když jsou nohy dlouhé  
 Plné neporozumění  
@@ -14,3 +16,5 @@ Právě jsem se dozvěděl že zemřel Alain Jouffroy
 Setkal jsem se s ním v roce 2002  
 Třicet let poté co jsem četl prvně jeho poezii  
 Nebudou to básně co nás uspí_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Každá barva  
 je otevřeným oknem  
 na řeku  
@@ -16,9 +18,15 @@ zvonky u dveří
 mají  
 vlastní adresu_
 
+</section>
+
+<section>
+
 _\* \* \*_
 
 _Stín  
 Pod nábytkem  
 Je  
 Bezbarvý_
+
+</section>

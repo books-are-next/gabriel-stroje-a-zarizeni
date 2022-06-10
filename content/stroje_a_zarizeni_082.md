@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _Stále mám v hlavě poskládaná všechna  
      odpoledne  
 I s jejich jizvami chlupatými či ne  
@@ -34,6 +36,10 @@ Jež se v ničem nepodobalo známým rovnicím
 Potápění pod peřinu kde matka představovala  
      dobývání Tróje_
 
+</section>
+
+<section>
+
 _Dodnes nevím zda jsem byl jen rozmazlený  
      parchant nebo i archeolog  
 Otec tesařkou tužkou kreslil budoucí kravíny kdesi  
@@ -48,3 +54,5 @@ Freud si pečlivě zapisoval všechna má přeřeknutí
 Žádné dokonalé manželství ale Výklad snů  
 Někdy i naleštěné úsloví  
 Přeskakování prstů v dlouhém zívnutí tmy_
+
+</section>

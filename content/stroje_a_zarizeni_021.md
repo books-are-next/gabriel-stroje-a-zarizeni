@@ -3,6 +3,8 @@ title: Turistická sezóna
 contentType: prose
 ---
 
+<section>
+
 _Tloustnou  
 Ale mají cesty po kapsách  
 Hořící zahrady v plechovkách  
@@ -20,3 +22,5 @@ Odpoledne vzhlédněte k nebi
 Přes slunce přejde Merkur  
 I vše co se vejde na stůl  
 Počasí v zapomenutých vlacích_
+
+</section>

@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Šustění zpráv  
 Vedle pobledlého těla  
 Kdo ví čemu jsme se smáli v rozevřené knize  
@@ -11,3 +13,5 @@ Ale co ty rozpadající se schody
 Za nimiž se neozvou žádné dveře  
 Z Karlových Varů přímo do terče Vinohrad  
 Koleje které tě pobaví_
+
+</section>

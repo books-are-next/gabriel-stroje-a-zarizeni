@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Nebudu Vám namlouvat  
 Že slunce vychází v 7.30  
 Zvířata mají své tabatěrky  
@@ -15,5 +17,11 @@ Ale pořád ještě vím
 Že v prádle dál chrastí dlažba  
 Stín jazyka s celým městem navíc_
 
+</section>
+
+<section>
+
 _Dveře domů hledí přísně na ty  
 Kteří nemají klobouky_
+
+</section>

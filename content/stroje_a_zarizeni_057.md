@@ -3,6 +3,8 @@ title: Vítání
 contentType: prose
 ---
 
+<section>
+
 _Ve tvářích je opět pondělí  
 Dosud němé bistro  
 Kolik tahů tužkou stačí začernit ulici  
@@ -17,3 +19,5 @@ Jako když se z teploměrů vytahují děti
 Černá kronika v krajkách omylů  
 Zvláštní znamení:  
 Na poměry se dnes nadává vestoje_
+
+</section>

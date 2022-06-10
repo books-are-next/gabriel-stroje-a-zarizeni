@@ -3,6 +3,8 @@ title: Středy
 contentType: prose
 ---
 
+<section>
+
 _Tvé věčné cestování mezi slepicí a Kamýkem  
 Autobusem větví talířem  
 Jen vědět že tady je ještě Hongkong  
@@ -22,3 +24,5 @@ Duben ve vráskách parket
 Auta jsou za deště rychlejší  
 Či snad máš jiné vysvětlení pro tmu  
 Ruce už tuší lesklý povrch masa_
+
+</section>

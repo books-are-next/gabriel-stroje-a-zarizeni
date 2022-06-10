@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _V parku u Kremlu posedávají na lavičkách staří  
      revolucionáři  
 Ve svých představách kreslí ploty  
@@ -22,3 +24,5 @@ Jantarová špička horkého masa
 Kdo ví čí rozpaky rozvěsíme příště ve tmě  
 Které svaly protáhneme kopírkou  
 Který jazyk bude rozumět stolní lampě_
+
+</section>

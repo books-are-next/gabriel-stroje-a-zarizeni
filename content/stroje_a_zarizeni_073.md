@@ -3,6 +3,8 @@ title: Pocta roastbeefu
 contentType: prose
 ---
 
+<section>
+
 _Jména připlouvala a odplouvala  
 Lidé jezdili do lázní kvůli občasným bouřkám  
 Místo Beethovena vykukoval z křoví Švanda dudák  
@@ -27,3 +29,5 @@ I po obědě dál listoval ulicí
 V záhybech naškrobených ubrusů  
 Zkušení lovci svírali v dlaních jen slepé patrony  
 Život v poledne se stal o něco srozumitelnější_
+
+</section>

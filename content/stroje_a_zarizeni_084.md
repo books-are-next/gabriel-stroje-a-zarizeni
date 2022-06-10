@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _Lesy ať si pomohou s novým kontrabandem jak  
      umějí  
 Horká sazba a rozesmáté klobouky  
@@ -27,3 +29,5 @@ Kolik stupňů je právě na severním pólu
 V Houilles vypouštěl rybičky mezi postavy které  
      nabízel místo doutníků  
 Publikoval naše básně nic z toho se neztratilo Ale prst dál běží po nebi kde není nic nového_
+
+</section>

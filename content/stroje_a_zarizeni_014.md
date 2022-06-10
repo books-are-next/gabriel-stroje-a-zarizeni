@@ -3,6 +3,8 @@ title: Překážky
 contentType: prose
 ---
 
+<section>
+
 _V dlouhé chodbě jsou nástroje za odměnu  
 I sníh se tváří jako kdyby nepadal  
 Nepočítal drobné  
@@ -18,3 +20,5 @@ Stárnou jako houby
 Kameny dlouhé pomlčky  
 Jaké lze zaslechnout jen při chůzi  
 Diskrétní právě jen na omak_
+
+</section>

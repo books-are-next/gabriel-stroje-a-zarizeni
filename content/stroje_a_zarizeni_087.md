@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _Nakonec všechno proběhlo jak má  
 Sáhnout si pro smrt do cizí kapsy a vytáhnout  
      oslintaný doutník  
@@ -28,6 +30,10 @@ Existují i jiné příklady jak chodit pod vodou
 Hovořit několika jazyky namísto spropitného  
      drze cinkat lžičkou_
 
+</section>
+
+<section>
+
 _Kalhoty do zvonu byly celou epochou dnes už  
      jim nikdo  
 Nevěnuje pozornost není si co vyčítat  
@@ -38,3 +44,5 @@ Rozhovory v nichž je vidět na několik metrů
 Při pohledu z balkónu je to na první pohled stále  
      stejná ulice  
 Několikrát přeškrtnutý dopis jako jediný nestárne_
+
+</section>
