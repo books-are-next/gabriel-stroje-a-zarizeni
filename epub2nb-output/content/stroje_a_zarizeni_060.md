@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Komu psát  
 Posílat dlouhé chodby  
 Mraky co se nevešly do kabátů  
@@ -20,3 +22,5 @@ Polsko na konci týdne
 Odshora až dolů  
 V dámském kapesníku  
 Blesk nahého masa_
+
+</section>

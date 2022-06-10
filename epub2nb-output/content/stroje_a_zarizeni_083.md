@@ -3,6 +3,8 @@ title: '*'
 contentType: prose
 ---
 
+<section>
+
 _Občas stačilo Henri vejce na celé odpoledne  
 Pocukrované Mariánské Lázně  
 Podávané jako předkrm k příštím úsměvům  
@@ -16,6 +18,10 @@ Až to praskne zajedeme si na pravý sachr do
 Znělo to celých čtyřicet let jako vůně herbáře  
 Nadávky mezi planetami nic neprozradily  
 Ani vzorce jak nejlépe prožít volný čas_
+
+</section>
+
+<section>
 
 _Pomalé kornatění tepen nad slovem početnice  
 Nic víc než bloudění prstů  
@@ -33,6 +39,10 @@ Marná snaha přijmout všechna zrcadla
 Ach ano Rollinsův nedostižný saxofon  
 Bloudí ve vráskách skleníků_
 
+</section>
+
+<section>
+
 _Stárneme  
 Ale již v kufrech s nimiž jsme kdysi odjížděli  
      na letní byty  
@@ -45,6 +55,10 @@ Tající sněhové vločky se snášely v hospodě
 Jen několik týdnů poté co zemřela Toyen  
 Nezapomínejme že každý blesk vylidní přístav  
 Návraty ranní tramvají mezi regály knihovny_
+
+</section>
+
+<section>
 
 _Anina přilehla jako pouhý omyl  
 Včela plná koření žádná zalidněná zahrada  
@@ -68,6 +82,10 @@ Jen první modrá gauloiska zůstane plná netrpělivých
      pohledů  
 I obav co všechno se zapomene_
 
+</section>
+
+<section>
+
 _Nebožtíci se diví že ještě jiskří  
 Lucie poztrácela své pihy v Londýně  
 Lhostejná k někdejším bonmotům dopisům  
@@ -78,3 +96,5 @@ Stmívá se jako když se přestřihují dráty
 V Česku podlehlo letos chřipce 225 lidí  
 A Praha ruší požadavek na oslunění bytů stačit  
      bude denní světlo_
+
+</section>

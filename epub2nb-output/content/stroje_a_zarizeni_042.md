@@ -3,6 +3,8 @@ title: Otevřeno
 contentType: prose
 ---
 
+<section>
+
 _Nejlepší bude začít báseň básníkem  
 Nebo také dírou roztaženou do všech stran  
 Provazy vzduchu a vody  
@@ -17,9 +19,19 @@ Ty své talíře si do jídelny nenoste
 Křičel podporučík než si sám vybalil svůj proviant  
 Litoměřice V. Ú. 6174_
 
+</section>
+
+<section>
+
 _I se změnou osvětlení je to stále ještě slunce_
+
+</section>
+
+<section>
 
 _Za necelý měsíc si trhovci opět rozloží své tiky  
 Samý křišťál zelenina rozstřílení ptáci  
 Hromada turistů kteří přesně vědí  
 Jak se co jmenuje_
+
+</section>

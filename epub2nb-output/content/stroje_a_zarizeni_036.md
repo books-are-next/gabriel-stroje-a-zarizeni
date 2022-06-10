@@ -3,6 +3,8 @@ title: Bez překvapení
 contentType: prose
 ---
 
+<section>
+
 _Přečíst  
 Škrtnout  
 To všechno jsou tunely  
@@ -19,3 +21,5 @@ Nic než škytnutí
 Opálená ramena stárnou bez svědků za pultem  
 Ale měna je stabilní za každého počasí  
 V přírodě je možné opravdu všechno_
+
+</section>

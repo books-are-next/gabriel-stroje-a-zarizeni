@@ -3,6 +3,8 @@ title: Každý den stejný obraz
 contentType: prose
 ---
 
+<section>
+
 _Trpělivě pozoruji život kolem sebe  
 Příští ztroskotání  
 Ale žádné poznámky si nedělám  
@@ -23,3 +25,5 @@ Až pak se ptejte na pandu
 Říká šéf pražské zoo  
 Je to tedy pravda  
 Vnitřnosti se plní rodinnými domky_
+
+</section>

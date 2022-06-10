@@ -3,6 +3,8 @@ title: Náměstí
 contentType: prose
 ---
 
+<section>
+
 _Každé nábřeží s přilehlou uličkou  
 Uzavírá noc  
 Střechy bez mraků  
@@ -18,3 +20,5 @@ Jeden se řadil k druhému
 Stále si ještě vyprávějí  
 Potápějí se  
 I když jsou dávno po smrti_
+
+</section>

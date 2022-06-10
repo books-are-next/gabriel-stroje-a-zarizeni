@@ -3,6 +3,8 @@ title: Táhnout dobou
 contentType: prose
 ---
 
+<section>
+
 _Ještě dva dny  
 A cigarety vyženou z hospod  
 Kalhotky z nikotinu budou patřit  
@@ -28,3 +30,5 @@ Listovat novinami
 Stejně pozorně jako plovárnou  
 Zhasnout Saharu  
 Tiše i ptáky_
+
+</section>

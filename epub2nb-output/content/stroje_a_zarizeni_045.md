@@ -3,6 +3,8 @@ title: Album známek
 contentType: prose
 ---
 
+<section>
+
 _Matky popsané nedělními ubrusy  
 Tím co už není  
 Zimní stadion na Štvanici  
@@ -27,3 +29,5 @@ Samé detailní záběry ale žádný večer
 Tohle počasí přeci musí jednou skončit  
 Všichni flirtují v mylném domnění  
 Že všechno kolem jsou miniatury_
+
+</section>

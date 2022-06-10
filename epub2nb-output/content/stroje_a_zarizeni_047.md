@@ -3,6 +3,8 @@ title: Neřešený problém
 contentType: prose
 ---
 
+<section>
+
 _Vím  
 Kdysi stačilo pánům logaritmické pravítko  
 Aby spočítali která odmocnina  
@@ -19,3 +21,5 @@ Aby je mohli opravovat
 Když už si není na co sáhnout  
 Balzac byl první kdo popsal celé město  
 Bez jediné uvozovky_
+
+</section>

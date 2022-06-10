@@ -3,6 +3,8 @@ title: Na cestě kolem světa
 contentType: prose
 ---
 
+<section>
+
 _Zítra je první jarní den  
 Zatoulaný večer na cestě kolem světa  
 Ale teploměr ukazuje minus patnáct  
@@ -15,3 +17,5 @@ Jak se zmenšily
 Igor Stravinskij požadoval  
 Aby každé jméno  
 Bylo bez moře_
+
+</section>

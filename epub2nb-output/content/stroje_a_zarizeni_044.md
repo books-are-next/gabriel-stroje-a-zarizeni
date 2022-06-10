@@ -3,6 +3,8 @@ title: Banky prý nezmizí
 contentType: prose
 ---
 
+<section>
+
 _Města vystavěná jako naučné slovníky  
 Korunovační sál vedle zaprášeného gramofonu  
 Několik pohledů  
@@ -23,3 +25,5 @@ Airbnb start-up scoring klientů blockchain
 A za nimi celý jeden kontinent  
 Který už poněkolikáté  
 Pozoruje zatmění slunce_
+
+</section>

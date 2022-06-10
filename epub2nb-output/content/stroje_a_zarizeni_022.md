@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Veřejné záchodky  
 Jsou jako staří lidé  
 Rostou v nich větve  
@@ -15,3 +17,5 @@ Posmrkávat nebo umřít
 Tu a tam i hádanka:  
 Proč právě tento cestovatel  
 Oprašuje kulečník_
+
+</section>

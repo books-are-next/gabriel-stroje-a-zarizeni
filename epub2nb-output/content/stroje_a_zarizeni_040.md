@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Dřevěný plot jen jako pták  
 Sako povytažené z tunelu  
 Někteří vymysleli že se soumrakem  
@@ -12,3 +14,5 @@ Vzorce chřadnou šumí
 Možná naposledy  
 Někde i plameny  
 Rozešité dámy dlouho do noci povlávají ve skříni_
+
+</section>

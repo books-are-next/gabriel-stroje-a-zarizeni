@@ -3,6 +3,8 @@ title: Letní blesky
 contentType: prose
 ---
 
+<section>
+
 _Příští slavnosti jak rychle zhubnout  
 Na plakátech se usmívají zadky  
 Posypané pískem  
@@ -22,3 +24,5 @@ Kdyby to byl rybolov nebo alespoň kácení lesa
 Řekne se vůně máty  
 Ale ostrovy jsou den ode dne menší  
 Živé terče zakutálené do zákulisí_
+
+</section>

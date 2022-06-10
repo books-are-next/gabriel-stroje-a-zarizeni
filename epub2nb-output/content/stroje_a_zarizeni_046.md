@@ -3,6 +3,8 @@ title: Pozůstalost
 contentType: prose
 ---
 
+<section>
+
 _Všichni se těšili  
 Co všechno objeví  
 Splavnost řek  
@@ -13,3 +15,5 @@ Nosní dírky neznámých badatelů
 Palác Lucerna  
 Ale po otevření tresoru  
 Našli jen manžetový knoflíček_
+
+</section>

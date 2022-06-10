@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Nové příběhy na starých gramofonových deskách  
 Neony za pultem  
 Rýha jako každá jiná  
@@ -17,7 +19,17 @@ Jen si přidržet brýle
 Když ruka míří na zločin  
 Zduřená sluncem_
 
+</section>
+
+<section>
+
 _Večer je město plné oslněných ptáků  
 A chátrajících módních salonů_
 
+</section>
+
+<section>
+
 _Rozškrtnuté sirky málem mimozemšťané_
+
+</section>

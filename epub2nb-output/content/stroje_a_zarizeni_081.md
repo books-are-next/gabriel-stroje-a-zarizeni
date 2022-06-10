@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _Klubka vlny se odvíjejí mění barvu  
 Mrtví si tisknou ruce odjíždějí na dovolenou  
 Není se čemu smát  
@@ -63,6 +65,10 @@ Byl to tradiční sobotní obřad zbloudilých džunek
 Hádanky vyměněné za známky jež si ještě  
      pamatovaly válku_
 
+</section>
+
+<section>
+
 _Sám Hitler se k nám dál skláněl se svým knírkem  
 Třebaže byl dávno po smrti  
 Pozorně ukazoval co všechno je hmyz  
@@ -75,3 +81,5 @@ A pozoroval okna jak tiše našlapují
 V psacích strojích po nedbale pohozeném kusu  
      masa  
 Vidět znamená i stárnout_
+
+</section>

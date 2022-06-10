@@ -3,6 +3,8 @@ title: Anatomický atlas
 contentType: prose
 ---
 
+<section>
+
 _Jako každý den večerní zprávy  
 Jedni tvrdí že za vše může Bůh  
 Za zkumavky vytahují vajgly  
@@ -18,3 +20,5 @@ Ale před vinotékou je tolik lidí
 Které obliny budou držet pohromadě  
 Za kterými pomlčkami je datum úmrtí  
 Nikdy jsem se nezúčastnil honu na lišku_
+
+</section>
