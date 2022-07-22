@@ -1,11 +1,11 @@
 ---
 title: '*'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Stále mám v hlavě poskládaná všechna  
+Stále mám v hlavě poskládaná všechna  
      odpoledne  
 I s jejich jizvami chlupatými či ne  
 Fotografii Charlese Baudelaira  
@@ -34,13 +34,13 @@ Dětské výpravy na půdu plnou pavučin
 Odkud jsem pozoroval všechno to hemžení dole  
 Jež se v ničem nepodobalo známým rovnicím  
 Potápění pod peřinu kde matka představovala  
-     dobývání Tróje_
+     dobývání Tróje
 
 </section>
 
 <section>
 
-_Dodnes nevím zda jsem byl jen rozmazlený  
+Dodnes nevím zda jsem byl jen rozmazlený  
      parchant nebo i archeolog  
 Otec tesařkou tužkou kreslil budoucí kravíny kdesi  
      v Sokolově  
@@ -53,6 +53,6 @@ Kdesi byla i reklama na rakovinu
 Freud si pečlivě zapisoval všechna má přeřeknutí  
 Žádné dokonalé manželství ale Výklad snů  
 Někdy i naleštěné úsloví  
-Přeskakování prstů v dlouhém zívnutí tmy_
+Přeskakování prstů v dlouhém zívnutí tmy
 
 </section>

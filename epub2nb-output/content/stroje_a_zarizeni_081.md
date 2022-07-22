@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Klubka vlny se odvíjejí mění barvu  
+Klubka vlny se odvíjejí mění barvu  
 Mrtví si tisknou ruce odjíždějí na dovolenou  
 Není se čemu smát  
 V rozkroku se hlásí nové jaro  
@@ -63,13 +63,13 @@ Jen Korejci se řadili do trojstupu s Kim Ir-senem
 Byl to tradiční sobotní obřad zbloudilých džunek  
 Žádné sympatie jen prezervativy  
 Hádanky vyměněné za známky jež si ještě  
-     pamatovaly válku_
+     pamatovaly válku
 
 </section>
 
 <section>
 
-_Sám Hitler se k nám dál skláněl se svým knírkem  
+Sám Hitler se k nám dál skláněl se svým knírkem  
 Třebaže byl dávno po smrti  
 Pozorně ukazoval co všechno je hmyz  
 V které almaře přežívají psí tlapky  
@@ -80,6 +80,6 @@ Tu hůl jsem prohlížel dlouho do noci
 A pozoroval okna jak tiše našlapují  
 V psacích strojích po nedbale pohozeném kusu  
      masa  
-Vidět znamená i stárnout_
+Vidět znamená i stárnout
 
 </section>

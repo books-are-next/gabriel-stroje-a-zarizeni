@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Letní klobouky přeplouvají náměstí  
+Letní klobouky přeplouvají náměstí  
 Manžetové knoflíčky z Titaniku  
 Se rodí jako oblaka  
 Hodí se ke všemu  
@@ -14,6 +14,6 @@ Připomínáš Jižní Novgorod
 Protože  
 Nebo také proč  
 Tón v těch tvářích  
-Je nezapamatovatelný_
+Je nezapamatovatelný
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Zájezd
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,7 +11,7 @@ contentType: prose
 
 <section>
 
-_Kdo ví  
+Kdo ví  
 Čí břicho první zbledne  
 Některým dámám je ve vzduchu na umření  
 Šustí jako bankovky  
@@ -36,6 +36,6 @@ Jako by právě dnes byla sobota
 Zavíráš okno  
 To souhvězdí je poněkud složité  
 Město není na začátku ani na konci věty  
-Nelze je nakreslit jedním tahem_
+Nelze je nakreslit jedním tahem
 
 </section>

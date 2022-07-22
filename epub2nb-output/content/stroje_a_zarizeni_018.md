@@ -1,11 +1,11 @@
 ---
 title: Anatomický atlas
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jako každý den večerní zprávy  
+Jako každý den večerní zprávy  
 Jedni tvrdí že za vše může Bůh  
 Za zkumavky vytahují vajgly  
 Dráty zbytky jídla  
@@ -19,6 +19,6 @@ Ale před vinotékou je tolik lidí
 Že si můžeme vybírat  
 Které obliny budou držet pohromadě  
 Za kterými pomlčkami je datum úmrtí  
-Nikdy jsem se nezúčastnil honu na lišku_
+Nikdy jsem se nezúčastnil honu na lišku
 
 </section>

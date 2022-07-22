@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Stroje a zařízení",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Gabriel",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-22T00:00:00.000Z"
+      "modified": "2021-10-22T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "stroje_a_zarizeni_001.md",
             "xhtml": "stroje_a_zarizeni_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_002.md",
             "xhtml": "stroje_a_zarizeni_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_003.md",
             "xhtml": "stroje_a_zarizeni_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_004.md",
             "xhtml": "stroje_a_zarizeni_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "POULIČNÍ BLESKY"
           },
           {
             "filename": "stroje_a_zarizeni_006.md",
@@ -97,7 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dopoledne"
           },
           {
             "filename": "stroje_a_zarizeni_007.md",
@@ -108,7 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_008.md",
@@ -119,7 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Každá smrt má své stíny"
           },
           {
             "filename": "stroje_a_zarizeni_009.md",
@@ -130,7 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_010.md",
@@ -141,7 +160,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_011.md",
@@ -152,7 +173,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_012.md",
@@ -163,7 +186,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vrstva po vrstvě"
           },
           {
             "filename": "stroje_a_zarizeni_013.md",
@@ -174,7 +199,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_014.md",
@@ -185,7 +212,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Překážky"
           },
           {
             "filename": "stroje_a_zarizeni_015.md",
@@ -196,7 +225,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jen tak"
           },
           {
             "filename": "stroje_a_zarizeni_016.md",
@@ -207,7 +238,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Příměří"
           },
           {
             "filename": "stroje_a_zarizeni_017.md",
@@ -218,7 +251,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_018.md",
@@ -229,7 +264,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Anatomický atlas"
           },
           {
             "filename": "stroje_a_zarizeni_019.md",
@@ -240,7 +277,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cestování"
           },
           {
             "filename": "stroje_a_zarizeni_020.md",
@@ -251,7 +290,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na Kampě"
           },
           {
             "filename": "stroje_a_zarizeni_021.md",
@@ -262,7 +303,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Turistická sezóna"
           },
           {
             "filename": "stroje_a_zarizeni_022.md",
@@ -273,7 +316,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * * "
           },
           {
             "filename": "stroje_a_zarizeni_023.md",
@@ -284,7 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_024.md",
@@ -295,7 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náměstí"
           },
           {
             "filename": "stroje_a_zarizeni_025.md",
@@ -306,7 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Letní blesky"
           },
           {
             "filename": "stroje_a_zarizeni_026.md",
@@ -317,7 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "NÁLEZY"
           },
           {
             "filename": "stroje_a_zarizeni_027.md",
@@ -328,7 +381,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_028.md",
@@ -339,7 +393,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "NA KONCI TÝDNE"
           },
           {
             "filename": "stroje_a_zarizeni_029.md",
@@ -350,7 +406,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_030.md",
@@ -361,7 +419,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "U vedlejšího stolu"
           },
           {
             "filename": "stroje_a_zarizeni_031.md",
@@ -372,7 +432,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_032.md",
@@ -383,7 +445,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_033.md",
@@ -394,7 +457,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_034.md",
@@ -405,7 +469,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_035.md",
@@ -416,7 +481,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_036.md",
@@ -427,7 +493,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bez překvapení"
           },
           {
             "filename": "stroje_a_zarizeni_037.md",
@@ -438,7 +506,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_038.md",
@@ -449,7 +519,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_039.md",
@@ -460,7 +532,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stránka dětství"
           },
           {
             "filename": "stroje_a_zarizeni_040.md",
@@ -471,7 +545,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_041.md",
@@ -482,7 +558,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka"
           },
           {
             "filename": "stroje_a_zarizeni_042.md",
@@ -493,7 +571,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Otevřeno"
           },
           {
             "filename": "stroje_a_zarizeni_043.md",
@@ -504,7 +584,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_044.md",
@@ -515,7 +597,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Banky prý nezmizí"
           },
           {
             "filename": "stroje_a_zarizeni_045.md",
@@ -526,7 +610,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Album známek"
           },
           {
             "filename": "stroje_a_zarizeni_046.md",
@@ -537,7 +623,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pozůstalost"
           },
           {
             "filename": "stroje_a_zarizeni_047.md",
@@ -548,7 +636,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Neřešený problém"
           },
           {
             "filename": "stroje_a_zarizeni_048.md",
@@ -559,7 +649,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka"
           },
           {
             "filename": "stroje_a_zarizeni_049.md",
@@ -570,7 +662,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Velikonoce"
           },
           {
             "filename": "stroje_a_zarizeni_050.md",
@@ -581,7 +675,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_051.md",
@@ -592,7 +688,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_052.md",
@@ -603,7 +701,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Obrazy a básně"
           },
           {
             "filename": "stroje_a_zarizeni_053.md",
@@ -614,7 +714,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_054.md",
@@ -625,7 +727,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Středy"
           },
           {
             "filename": "stroje_a_zarizeni_055.md",
@@ -636,7 +740,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přesýpací hodiny"
           },
           {
             "filename": "stroje_a_zarizeni_056.md",
@@ -647,7 +753,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cestou"
           },
           {
             "filename": "stroje_a_zarizeni_057.md",
@@ -658,7 +766,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vítání"
           },
           {
             "filename": "stroje_a_zarizeni_058.md",
@@ -669,7 +779,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_059.md",
@@ -680,7 +792,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Demise"
           },
           {
             "filename": "stroje_a_zarizeni_060.md",
@@ -691,7 +805,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_061.md",
@@ -702,7 +818,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Setkání"
           },
           {
             "filename": "stroje_a_zarizeni_062.md",
@@ -713,7 +831,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Úkoly"
           },
           {
             "filename": "stroje_a_zarizeni_063.md",
@@ -724,7 +844,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Táhnout dobou"
           },
           {
             "filename": "stroje_a_zarizeni_064.md",
@@ -735,7 +857,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_065.md",
@@ -746,7 +870,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Věštby"
           },
           {
             "filename": "stroje_a_zarizeni_066.md",
@@ -757,7 +883,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zápisky"
           },
           {
             "filename": "stroje_a_zarizeni_067.md",
@@ -768,7 +896,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Každý den stejný obraz"
           },
           {
             "filename": "stroje_a_zarizeni_068.md",
@@ -779,7 +909,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zájezd"
           },
           {
             "filename": "stroje_a_zarizeni_069.md",
@@ -790,7 +922,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V čase"
           },
           {
             "filename": "stroje_a_zarizeni_070.md",
@@ -801,7 +935,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V zrcadlech"
           },
           {
             "filename": "stroje_a_zarizeni_071.md",
@@ -812,7 +948,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_072.md",
@@ -823,7 +961,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_073.md",
@@ -834,7 +974,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pocta roastbeefu"
           },
           {
             "filename": "stroje_a_zarizeni_074.md",
@@ -845,7 +987,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_075.md",
@@ -856,7 +1000,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na cestě kolem světa"
           },
           {
             "filename": "stroje_a_zarizeni_076.md",
@@ -867,7 +1013,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_077.md",
@@ -878,7 +1026,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_078.md",
@@ -889,7 +1039,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_079.md",
@@ -900,7 +1052,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
           },
           {
             "filename": "stroje_a_zarizeni_080.md",
@@ -911,7 +1065,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "STROJE A ZAŘÍZENÍ"
           },
           {
             "filename": "stroje_a_zarizeni_081.md",
@@ -922,7 +1078,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "stroje_a_zarizeni_082.md",
@@ -933,7 +1090,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_083.md",
@@ -944,7 +1103,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_084.md",
@@ -955,7 +1116,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_085.md",
@@ -966,7 +1129,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_086.md",
@@ -977,7 +1142,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_087.md",
@@ -988,18 +1155,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
           },
           {
             "filename": "stroje_a_zarizeni_088.md",
             "xhtml": "stroje_a_zarizeni_088.xhtml",
             "id": 87,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1611,6 +1781,6 @@
       "user": "books-are-next",
       "repo": "gabriel-stroje-a-zarizeni"
     },
-    "generatedAt": 1658413371955
+    "generatedAt": 1658481492673
   }
 }

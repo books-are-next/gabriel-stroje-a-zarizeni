@@ -1,6 +1,6 @@
 ---
 title: STROJE A ZAŘÍZENÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

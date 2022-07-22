@@ -1,30 +1,30 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přivítat hosty  
+Přivítat hosty  
 Proklepat je hůlkou  
 Vydražit všechny zuby  
 Vyceněné úsměvy z novin  
 Není toho málo co se nafukuje jako bubliny  
-Co lítá a zanechává šmouhy_
+Co lítá a zanechává šmouhy
 
 </section>
 
 <section>
 
-_Krajina celá z mouky  
+Krajina celá z mouky  
 A někde v dáli nabíjení pušek  
 Ozvěny unikají svým pronásledovatelům  
-Tak dlouho dokud se nevykloní z okna_
+Tak dlouho dokud se nevykloní z okna
 
 </section>
 
 <section>
 
-_Nejsou to žádné pomluvy jen holé věty_
+Nejsou to žádné pomluvy jen holé věty
 
 </section>

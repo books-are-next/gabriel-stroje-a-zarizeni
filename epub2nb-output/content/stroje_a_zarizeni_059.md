@@ -1,33 +1,33 @@
 ---
 title: Demise
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1  
+1  
 Lízat tmu jak tu leží  
 Přehrabávat chodce podle cenovek  
 Škvíry v omítce jejich osamělé neonové vzkazy  
-Aforismy pouhý metr nad zemí_
+Aforismy pouhý metr nad zemí
 
 </section>
 
 <section>
 
-_2  
+2  
 V televizi jsou opět Číňané  
-Jejich propocené dresy coby pouhý vtip_
+Jejich propocené dresy coby pouhý vtip
 
 </section>
 
 <section>
 
-_3  
+3  
 Co je na prodej  
 Vybíhá z lesa nepřestává pomrkávat  
 Není to žádná nebezpečná hra:  
 Demise vlády ztopořených údů  
-Dnes se tomu říká aranžmá_
+Dnes se tomu říká aranžmá
 
 </section>

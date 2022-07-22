@@ -1,11 +1,11 @@
 ---
 title: Obrazy a básně
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsou obrazy které nosíme do lesa  
+Jsou obrazy které nosíme do lesa  
 Jiné ohmatáváme v kapse jako výkřiky  
 Některé jsou nečitelné  
 Stavějí se jako mosty  
@@ -14,38 +14,38 @@ Se potutelně usmívají při kouření cigaret
 Zatímco dav trpělivě čeká ve frontě  
 Zvětšuje se jako stoly  
 Ještě jedno škrtnutí sirkou  
-A vyplují na moře_
+A vyplují na moře
 
 </section>
 
 <section>
 
-_Setkávali jsme se jen v temných průchodech  
+Setkávali jsme se jen v temných průchodech  
 Mezi odloženými kabáty postříkanými barvou  
 Kolem dokola metropole kravat  
 Málem prázdný střed města  
-S podzimním listím rozvázaných tkaniček_
+S podzimním listím rozvázaných tkaniček
 
 </section>
 
 <section>
 
-_Z protějšího okna odlétají ptáci  
+Z protějšího okna odlétají ptáci  
 Důvěrně známé výčitky  
 Pondělí se předává z ruky do ruky  
-Jako některé staré náhrobky_
+Jako některé staré náhrobky
 
 </section>
 
 <section>
 
-_Buď anebo: Města po zimě vysypaná z kabátů_
+Buď anebo: Města po zimě vysypaná z kabátů
 
 </section>
 
 <section>
 
-_Záhady se nejčastěji  
-Rozmnožují při čtení novin_
+Záhady se nejčastěji  
+Rozmnožují při čtení novin
 
 </section>

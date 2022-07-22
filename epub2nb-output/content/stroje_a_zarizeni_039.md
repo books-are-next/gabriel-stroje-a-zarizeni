@@ -1,29 +1,29 @@
 ---
 title: Stránka dětství
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1  
+1  
 Přistát  
 Rozepnout  
-Plandat_
+Plandat
 
 </section>
 
 <section>
 
-_2  
+2  
 Vyjedený talíř plný slunce  
-Ojíněné kosti svědků_
+Ojíněné kosti svědků
 
 </section>
 
 <section>
 
-_3  
+3  
 I rozvázané tkaničky  
-Patří k dějinám_
+Patří k dějinám
 
 </section>

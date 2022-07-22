@@ -1,11 +1,11 @@
 ---
 title: Bez překvapení
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přečíst  
+Přečíst  
 Škrtnout  
 To všechno jsou tunely  
 Skleničky jež na začátku mají svou tvář  
@@ -20,6 +20,6 @@ Provizorní fasády
 Nic než škytnutí  
 Opálená ramena stárnou bez svědků za pultem  
 Ale měna je stabilní za každého počasí  
-V přírodě je možné opravdu všechno_
+V přírodě je možné opravdu všechno
 
 </section>

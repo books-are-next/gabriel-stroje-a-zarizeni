@@ -1,11 +1,11 @@
 ---
 title: Každý den stejný obraz
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Trpělivě pozoruji život kolem sebe  
+Trpělivě pozoruji život kolem sebe  
 Příští ztroskotání  
 Ale žádné poznámky si nedělám  
 Stále víc lidí staví na odiv  
@@ -24,6 +24,6 @@ Nejdřív gorily poté i lední medvědi
 Až pak se ptejte na pandu  
 Říká šéf pražské zoo  
 Je to tedy pravda  
-Vnitřnosti se plní rodinnými domky_
+Vnitřnosti se plní rodinnými domky
 
 </section>

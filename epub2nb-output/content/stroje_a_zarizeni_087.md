@@ -1,11 +1,11 @@
 ---
 title: '*'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nakonec všechno proběhlo jak má  
+Nakonec všechno proběhlo jak má  
 Sáhnout si pro smrt do cizí kapsy a vytáhnout  
      oslintaný doutník  
 Prezidenti se stále stejně usmívají krčí rameny  
@@ -28,13 +28,13 @@ Každá koláž je i kapkou krve očichávanou
 Kteří se sem zatoulali protože je nikdo neochočil  
 Existují i jiné příklady jak chodit pod vodou  
 Hovořit několika jazyky namísto spropitného  
-     drze cinkat lžičkou_
+     drze cinkat lžičkou
 
 </section>
 
 <section>
 
-_Kalhoty do zvonu byly celou epochou dnes už  
+Kalhoty do zvonu byly celou epochou dnes už  
      jim nikdo  
 Nevěnuje pozornost není si co vyčítat  
 Žádný stisk ruky nepopíše létání  
@@ -43,6 +43,6 @@ Obchodní domy se plní jeho fotografiemi
 Rozhovory v nichž je vidět na několik metrů  
 Při pohledu z balkónu je to na první pohled stále  
      stejná ulice  
-Několikrát přeškrtnutý dopis jako jediný nestárne_
+Několikrát přeškrtnutý dopis jako jediný nestárne
 
 </section>

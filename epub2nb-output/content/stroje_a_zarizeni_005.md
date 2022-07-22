@@ -1,6 +1,6 @@
 ---
 title: POULIČNÍ BLESKY
-contentType: prose
+contentType: poetry
 ---
 
 

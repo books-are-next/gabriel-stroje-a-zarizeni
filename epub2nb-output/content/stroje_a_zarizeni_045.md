@@ -1,11 +1,11 @@
 ---
 title: Album známek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Matky popsané nedělními ubrusy  
+Matky popsané nedělními ubrusy  
 Tím co už není  
 Zimní stadion na Štvanici  
 Tenisové kurty na Vyšehradě  
@@ -28,6 +28,6 @@ Dnes jsou v herbáři s poznámkou Přírodní bohatství
 Samé detailní záběry ale žádný večer  
 Tohle počasí přeci musí jednou skončit  
 Všichni flirtují v mylném domnění  
-Že všechno kolem jsou miniatury_
+Že všechno kolem jsou miniatury
 
 </section>

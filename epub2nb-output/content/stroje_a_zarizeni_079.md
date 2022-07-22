@@ -1,29 +1,29 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Až kam lze natáhnout ruku  
+Až kam lze natáhnout ruku  
 Až tam kde se louže náhle tváří jako střílny  
 Technické výkresy kde každý milimetr  
 Představuje nečekané dobrodružství  
-Ačkoli jde jen o čáru_
+Ačkoli jde jen o čáru
 
 </section>
 
 <section>
 
-_Pozpátku ale s vyzývavým obočím_
+Pozpátku ale s vyzývavým obočím
 
 </section>
 
 <section>
 
-_A pak jsou také poštovní známky  
+A pak jsou také poštovní známky  
 Hovězí rozesílané v dopisech  
 Vylidněný soumrak  
-Všechny ty tváře bez lidí_
+Všechny ty tváře bez lidí
 
 </section>

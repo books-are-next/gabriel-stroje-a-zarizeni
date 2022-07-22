@@ -1,37 +1,37 @@
 ---
 title: Zápisky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1  
+1  
 Ubrousky v jídelních vozech  
-tikaly jako hodinářství._
+tikaly jako hodinářství.
 
 </section>
 
 <section>
 
-_2  
+2  
 New York Times: Ženy za socialismu  
 si užívaly lepší sex. Ty obnošené hudební nástroje,  
-sukně rozevláté ve švech._
+sukně rozevláté ve švech.
 
 </section>
 
 <section>
 
-_3  
+3  
 Oblá stehna vynášená z krámu  
-na stříbrném podnose._
+na stříbrném podnose.
 
 </section>
 
 <section>
 
-_4  
+4  
 Nemohl jsem si zvyknout  
-na svou novou tvář._
+na svou novou tvář.
 
 </section>

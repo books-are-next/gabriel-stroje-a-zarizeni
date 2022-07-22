@@ -1,28 +1,28 @@
 ---
 title: V čase
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1  
+1  
 Zatímco opálené dveře olizuje nová barva lýtek  
-Sklenice se plní stmíváním_
+Sklenice se plní stmíváním
 
 </section>
 
 <section>
 
-_2  
+2  
 Zatímco svaly modrají ve větru  
-Lešení kostela vyzvání mezi inzeráty_
+Lešení kostela vyzvání mezi inzeráty
 
 </section>
 
 <section>
 
-_3  
+3  
 Zatímco trhovci roztahují v tvářích svá jezera  
-Kdosi vyhrál zbrusu nové tělo_
+Kdosi vyhrál zbrusu nové tělo
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Vítání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ve tvářích je opět pondělí  
+Ve tvářích je opět pondělí  
 Dosud němé bistro  
 Kolik tahů tužkou stačí začernit ulici  
 Proměnit mapu ve vyjedený talíř  
@@ -18,6 +18,6 @@ Jako když se z teploměrů vytahují děti
 Žádné fotografie pouze poskládané kosti  
 Černá kronika v krajkách omylů  
 Zvláštní znamení:  
-Na poměry se dnes nadává vestoje_
+Na poměry se dnes nadává vestoje
 
 </section>

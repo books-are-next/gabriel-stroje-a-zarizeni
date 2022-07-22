@@ -1,11 +1,11 @@
 ---
 title: Turistická sezóna
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tloustnou  
+Tloustnou  
 Ale mají cesty po kapsách  
 Hořící zahrady v plechovkách  
 Nestačil jsem spočítat  
@@ -21,6 +21,6 @@ Dnes šustí zástěrami na Broadwayi
 Odpoledne vzhlédněte k nebi  
 Přes slunce přejde Merkur  
 I vše co se vejde na stůl  
-Počasí v zapomenutých vlacích_
+Počasí v zapomenutých vlacích
 
 </section>

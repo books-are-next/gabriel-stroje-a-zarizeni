@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -9,21 +9,21 @@ Dívali se na mě
 S vodoměry v dlaních  
 Aby nemuseli nic vysvětlovat
 
-_\* \* \*_
+\* \* \*
 
-_Sluncem vyšisované kalhoty  
+Sluncem vyšisované kalhoty  
 I na podzim  
-Ještě kouří cigaretu_
+Ještě kouří cigaretu
 
 </section>
 
 <section>
 
-_\* \* \*_
+\* \* \*
 
-_Chodci nebo psi  
+Chodci nebo psi  
 Za sklem  
 Bílá torza  
-Pracovních oděvů_
+Pracovních oděvů
 
 </section>

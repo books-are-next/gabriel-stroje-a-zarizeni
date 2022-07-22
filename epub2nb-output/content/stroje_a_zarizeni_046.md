@@ -1,11 +1,11 @@
 ---
 title: Pozůstalost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Všichni se těšili  
+Všichni se těšili  
 Co všechno objeví  
 Splavnost řek  
 Mraky za zavřenými dveřmi  
@@ -14,6 +14,6 @@ Tkaničky veřejného osvětlení
 Nosní dírky neznámých badatelů  
 Palác Lucerna  
 Ale po otevření tresoru  
-Našli jen manžetový knoflíček_
+Našli jen manžetový knoflíček
 
 </section>

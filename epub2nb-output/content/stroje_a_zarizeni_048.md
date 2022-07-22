@@ -1,11 +1,11 @@
 ---
 title: Vzpomínka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zvětšit se nebo přistát  
+Zvětšit se nebo přistát  
 O končetinách se musí hovořit líbezně  
 Tedy nejlépe na přeskáčku  
 Jsou to pouhé fošny  
@@ -15,22 +15,22 @@ Možná i nouzový východ
 Nechtěl jsem to nijak rozmazávat  
 Ani zametat  
 Prostě jen spolknout  
-Nábřeží začínalo hned za hlavními zprávami_
+Nábřeží začínalo hned za hlavními zprávami
 
 </section>
 
 <section>
 
-_Ruská vajíčka v Mariánských Lázních  
+Ruská vajíčka v Mariánských Lázních  
 Hotel Golf  
-Kdejaká flákota se posmívala bazénům_
+Kdejaká flákota se posmívala bazénům
 
 </section>
 
 <section>
 
-_Do soudní síně přinesli jako důkaz  
+Do soudní síně přinesli jako důkaz  
 Vlastní zuby fajánsovou keramiku  
-I zmrzlou kapku vody_
+I zmrzlou kapku vody
 
 </section>

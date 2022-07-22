@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nové příběhy na starých gramofonových deskách  
+Nové příběhy na starých gramofonových deskách  
 Neony za pultem  
 Rýha jako každá jiná  
 Kdo ví jaký šlágr kolen potáhne parkem  
@@ -17,19 +17,19 @@ Nemusíte se hned usmívat
 Ani citovat všechny záhyby  
 Jen si přidržet brýle  
 Když ruka míří na zločin  
-Zduřená sluncem_
+Zduřená sluncem
 
 </section>
 
 <section>
 
-_Večer je město plné oslněných ptáků  
-A chátrajících módních salonů_
+Večer je město plné oslněných ptáků  
+A chátrajících módních salonů
 
 </section>
 
 <section>
 
-_Rozškrtnuté sirky málem mimozemšťané_
+Rozškrtnuté sirky málem mimozemšťané
 
 </section>

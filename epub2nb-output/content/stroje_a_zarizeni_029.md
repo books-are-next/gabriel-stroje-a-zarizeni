@@ -1,15 +1,15 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Spolu  
+Spolu  
 Ruku v ruce  
 Máme se na co těšit  
 Svetr je v pokoji  
 A přede dveřmi celý Madrid  
-Vyšumělé maso a teď už i zrcadlo_
+Vyšumělé maso a teď už i zrcadlo
 
 </section>

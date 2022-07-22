@@ -1,11 +1,11 @@
 ---
 title: Překážky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V dlouhé chodbě jsou nástroje za odměnu  
+V dlouhé chodbě jsou nástroje za odměnu  
 I sníh se tváří jako kdyby nepadal  
 Nepočítal drobné  
 Jak se kutálejí po kontinentech  
@@ -19,6 +19,6 @@ Pomačkaných soumraků
 Stárnou jako houby  
 Kameny dlouhé pomlčky  
 Jaké lze zaslechnout jen při chůzi  
-Diskrétní právě jen na omak_
+Diskrétní právě jen na omak
 
 </section>

@@ -1,46 +1,46 @@
 ---
 title: Vrstva po vrstvě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_I v černobílých filmech se občas rozsvítí  
+I v černobílých filmech se občas rozsvítí  
 Kapsy plášťů  
 Lesy co se nedaly přečíst  
 Ale o žádný hlavolam nešlo  
-Sotva narýsovaný zločin_
+Sotva narýsovaný zločin
 
 </section>
 
 <section>
 
-_Jinde vychovávají děti ve skříních  
+Jinde vychovávají děti ve skříních  
 Je to už několik let  
-Ale fasády protějších domů jsou stále stejné_
+Ale fasády protějších domů jsou stále stejné
 
 </section>
 
 <section>
 
-_Žádné ale_
+Žádné ale
 
 </section>
 
 <section>
 
-_Bledé nehty dráždí moře  
+Bledé nehty dráždí moře  
 Nikdo náhle nemá čas  
 Bavorský premiér poslal Merkelové autobus  
      plný uprchlíků  
 Čaj rozsypaný v Jungmannově ulici  
 Kreslí názvy příštích planet  
-Přehlídku ochočených ptáků_
+Přehlídku ochočených ptáků
 
 </section>
 
 <section>
 
-_Jen si vzpomeň co všechno ještě lítá_
+Jen si vzpomeň co všechno ještě lítá
 
 </section>

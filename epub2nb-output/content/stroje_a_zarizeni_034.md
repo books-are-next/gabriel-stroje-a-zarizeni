@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -9,20 +9,20 @@ V účesech dam
 Stále  
 Ještě mrholí
 
-_\* \* \*_
+\* \* \*
 
-_Rozmazaný pták  
+Rozmazaný pták  
 Nad umaštěným talířem  
-Jako rodné číslo_
+Jako rodné číslo
 
 </section>
 
 <section>
 
-_\* \* \*_
+\* \* \*
 
-_Každý den  
+Každý den  
 Se jednoho dne  
-Vyčerpá_
+Vyčerpá
 
 </section>

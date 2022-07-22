@@ -1,6 +1,6 @@
 ---
 title: NA KONCI TÝDNE
-contentType: prose
+contentType: poetry
 ---
 
 

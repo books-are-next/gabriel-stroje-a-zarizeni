@@ -1,11 +1,11 @@
 ---
 title: Letní blesky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Příští slavnosti jak rychle zhubnout  
+Příští slavnosti jak rychle zhubnout  
 Na plakátech se usmívají zadky  
 Posypané pískem  
 Rozzářené zdi  
@@ -23,6 +23,6 @@ Opálené Italky se překřikují nohama
 Kdyby to byl rybolov nebo alespoň kácení lesa  
 Řekne se vůně máty  
 Ale ostrovy jsou den ode dne menší  
-Živé terče zakutálené do zákulisí_
+Živé terče zakutálené do zákulisí
 
 </section>

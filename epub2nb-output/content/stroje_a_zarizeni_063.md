@@ -1,11 +1,11 @@
 ---
 title: Táhnout dobou
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ještě dva dny  
+Ještě dva dny  
 A cigarety vyženou z hospod  
 Kalhotky z nikotinu budou patřit  
 Mezi starožitnosti  
@@ -29,6 +29,6 @@ Sledovat kurs akcií
 Listovat novinami  
 Stejně pozorně jako plovárnou  
 Zhasnout Saharu  
-Tiše i ptáky_
+Tiše i ptáky
 
 </section>

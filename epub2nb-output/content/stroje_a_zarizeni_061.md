@@ -1,54 +1,54 @@
 ---
 title: Setkání
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_1  
+1  
 Bledé housle  
 Zapadlé mezi hlouček  
-Rozvrzaných vlajek_
+Rozvrzaných vlajek
 
 </section>
 
 <section>
 
-_2  
+2  
 V restauraci Století  
 Každé jídlo zlátne s jinou sukní  
 V řeči opět leštíme kov Benátek  
 Roztržitého číšníka který prohání talíře  
 Vstříc budoucí smrti  
-Tak znovu: Donatello nebo letopočty plné Japonců_
+Tak znovu: Donatello nebo letopočty plné Japonců
 
 </section>
 
 <section>
 
-_3  
+3  
 Kufry v soudních síních  
 Zprvu pouhé hromady  
 Bloudí  
 Stejně jako všechny omyly  
-Kroky prvních barev_
+Kroky prvních barev
 
 </section>
 
 <section>
 
-_4  
+4  
 Až se objeví jako drobky chleba na stole  
 Nevyjdou z údivu  
 Jakým plamenem hoří nečitelné dopisy  
 Střenka nože  
-Pokřik krve_
+Pokřik krve
 
 </section>
 
 <section>
 
-_5  
-Ale noviny o tom nepíší_
+5  
+Ale noviny o tom nepíší
 
 </section>

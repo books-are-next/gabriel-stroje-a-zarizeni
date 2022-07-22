@@ -1,0 +1,1810 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Stroje a zařízení",
+  "author": "Jan Gabriel",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "gabriel-stroje-a-zarizeni-6104a1d",
+  "revision": "6104a1d",
+  "readingOrder": [
+    "promo.html",
+    "stroje_a_zarizeni_005.html",
+    "stroje_a_zarizeni_006.html",
+    "stroje_a_zarizeni_007.html",
+    "stroje_a_zarizeni_008.html",
+    "stroje_a_zarizeni_009.html",
+    "stroje_a_zarizeni_010.html",
+    "stroje_a_zarizeni_011.html",
+    "stroje_a_zarizeni_012.html",
+    "stroje_a_zarizeni_013.html",
+    "stroje_a_zarizeni_014.html",
+    "stroje_a_zarizeni_015.html",
+    "stroje_a_zarizeni_016.html",
+    "stroje_a_zarizeni_017.html",
+    "stroje_a_zarizeni_018.html",
+    "stroje_a_zarizeni_019.html",
+    "stroje_a_zarizeni_020.html",
+    "stroje_a_zarizeni_021.html",
+    "stroje_a_zarizeni_022.html",
+    "stroje_a_zarizeni_023.html",
+    "stroje_a_zarizeni_024.html",
+    "stroje_a_zarizeni_025.html",
+    "stroje_a_zarizeni_026.html",
+    "stroje_a_zarizeni_027.html",
+    "stroje_a_zarizeni_028.html",
+    "stroje_a_zarizeni_029.html",
+    "stroje_a_zarizeni_030.html",
+    "stroje_a_zarizeni_031.html",
+    "stroje_a_zarizeni_032.html",
+    "stroje_a_zarizeni_033.html",
+    "stroje_a_zarizeni_034.html",
+    "stroje_a_zarizeni_035.html",
+    "stroje_a_zarizeni_036.html",
+    "stroje_a_zarizeni_037.html",
+    "stroje_a_zarizeni_038.html",
+    "stroje_a_zarizeni_039.html",
+    "stroje_a_zarizeni_040.html",
+    "stroje_a_zarizeni_041.html",
+    "stroje_a_zarizeni_042.html",
+    "stroje_a_zarizeni_043.html",
+    "stroje_a_zarizeni_044.html",
+    "stroje_a_zarizeni_045.html",
+    "stroje_a_zarizeni_046.html",
+    "stroje_a_zarizeni_047.html",
+    "stroje_a_zarizeni_048.html",
+    "stroje_a_zarizeni_049.html",
+    "stroje_a_zarizeni_050.html",
+    "stroje_a_zarizeni_051.html",
+    "stroje_a_zarizeni_052.html",
+    "stroje_a_zarizeni_053.html",
+    "stroje_a_zarizeni_054.html",
+    "stroje_a_zarizeni_055.html",
+    "stroje_a_zarizeni_056.html",
+    "stroje_a_zarizeni_057.html",
+    "stroje_a_zarizeni_058.html",
+    "stroje_a_zarizeni_059.html",
+    "stroje_a_zarizeni_060.html",
+    "stroje_a_zarizeni_061.html",
+    "stroje_a_zarizeni_062.html",
+    "stroje_a_zarizeni_063.html",
+    "stroje_a_zarizeni_064.html",
+    "stroje_a_zarizeni_065.html",
+    "stroje_a_zarizeni_066.html",
+    "stroje_a_zarizeni_067.html",
+    "stroje_a_zarizeni_068.html",
+    "stroje_a_zarizeni_069.html",
+    "stroje_a_zarizeni_070.html",
+    "stroje_a_zarizeni_071.html",
+    "stroje_a_zarizeni_072.html",
+    "stroje_a_zarizeni_073.html",
+    "stroje_a_zarizeni_074.html",
+    "stroje_a_zarizeni_075.html",
+    "stroje_a_zarizeni_076.html",
+    "stroje_a_zarizeni_077.html",
+    "stroje_a_zarizeni_078.html",
+    "stroje_a_zarizeni_079.html",
+    "stroje_a_zarizeni_080.html",
+    "stroje_a_zarizeni_081.html",
+    "stroje_a_zarizeni_082.html",
+    "stroje_a_zarizeni_083.html",
+    "stroje_a_zarizeni_084.html",
+    "stroje_a_zarizeni_085.html",
+    "stroje_a_zarizeni_086.html",
+    "stroje_a_zarizeni_087.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jul 22 2022 09:19:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658481585801
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "stroje_a_zarizeni_005.html",
+      "toc": []
+    },
+    {
+      "title": "POULIČNÍ BLESKY",
+      "file": "stroje_a_zarizeni_005.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "stroje_a_zarizeni_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POULIČNÍ BLESKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopoledne",
+      "file": "stroje_a_zarizeni_006.html",
+      "words": 22,
+      "chars": 136,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "stroje_a_zarizeni_005.html",
+      "next": "stroje_a_zarizeni_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_007.html",
+      "words": 60,
+      "chars": 313,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "stroje_a_zarizeni_006.html",
+      "next": "stroje_a_zarizeni_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Každá smrt má své stíny",
+      "file": "stroje_a_zarizeni_008.html",
+      "words": 64,
+      "chars": 359,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "stroje_a_zarizeni_007.html",
+      "next": "stroje_a_zarizeni_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Každá smrt má své stíny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_009.html",
+      "words": 73,
+      "chars": 446,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "stroje_a_zarizeni_008.html",
+      "next": "stroje_a_zarizeni_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_010.html",
+      "words": 46,
+      "chars": 293,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "stroje_a_zarizeni_009.html",
+      "next": "stroje_a_zarizeni_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_011.html",
+      "words": 38,
+      "chars": 225,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 7,
+      "prev": "stroje_a_zarizeni_010.html",
+      "next": "stroje_a_zarizeni_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vrstva po vrstvě",
+      "file": "stroje_a_zarizeni_012.html",
+      "words": 78,
+      "chars": 471,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 8,
+      "prev": "stroje_a_zarizeni_011.html",
+      "next": "stroje_a_zarizeni_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vrstva po vrstvě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_013.html",
+      "words": 58,
+      "chars": 338,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "stroje_a_zarizeni_012.html",
+      "next": "stroje_a_zarizeni_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Překážky",
+      "file": "stroje_a_zarizeni_014.html",
+      "words": 67,
+      "chars": 390,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 10,
+      "prev": "stroje_a_zarizeni_013.html",
+      "next": "stroje_a_zarizeni_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Překážky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jen tak",
+      "file": "stroje_a_zarizeni_015.html",
+      "words": 40,
+      "chars": 219,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 11,
+      "prev": "stroje_a_zarizeni_014.html",
+      "next": "stroje_a_zarizeni_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jen tak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příměří",
+      "file": "stroje_a_zarizeni_016.html",
+      "words": 39,
+      "chars": 202,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "stroje_a_zarizeni_015.html",
+      "next": "stroje_a_zarizeni_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příměří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_017.html",
+      "words": 38,
+      "chars": 219,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "stroje_a_zarizeni_016.html",
+      "next": "stroje_a_zarizeni_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anatomický atlas",
+      "file": "stroje_a_zarizeni_018.html",
+      "words": 87,
+      "chars": 495,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 14,
+      "prev": "stroje_a_zarizeni_017.html",
+      "next": "stroje_a_zarizeni_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anatomický atlas",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cestování",
+      "file": "stroje_a_zarizeni_019.html",
+      "words": 86,
+      "chars": 513,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 15,
+      "prev": "stroje_a_zarizeni_018.html",
+      "next": "stroje_a_zarizeni_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cestování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Kampě",
+      "file": "stroje_a_zarizeni_020.html",
+      "words": 87,
+      "chars": 491,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 16,
+      "prev": "stroje_a_zarizeni_019.html",
+      "next": "stroje_a_zarizeni_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Kampě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Turistická sezóna",
+      "file": "stroje_a_zarizeni_021.html",
+      "words": 71,
+      "chars": 425,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 17,
+      "prev": "stroje_a_zarizeni_020.html",
+      "next": "stroje_a_zarizeni_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Turistická sezóna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_022.html",
+      "words": 48,
+      "chars": 265,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "stroje_a_zarizeni_021.html",
+      "next": "stroje_a_zarizeni_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_023.html",
+      "words": 81,
+      "chars": 453,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 19,
+      "prev": "stroje_a_zarizeni_022.html",
+      "next": "stroje_a_zarizeni_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náměstí",
+      "file": "stroje_a_zarizeni_024.html",
+      "words": 62,
+      "chars": 363,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 20,
+      "prev": "stroje_a_zarizeni_023.html",
+      "next": "stroje_a_zarizeni_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náměstí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Letní blesky",
+      "file": "stroje_a_zarizeni_025.html",
+      "words": 95,
+      "chars": 568,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 21,
+      "prev": "stroje_a_zarizeni_024.html",
+      "next": "stroje_a_zarizeni_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Letní blesky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NÁLEZY",
+      "file": "stroje_a_zarizeni_026.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "stroje_a_zarizeni_025.html",
+      "next": "stroje_a_zarizeni_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NÁLEZY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_027.html",
+      "words": 323,
+      "chars": 1781,
+      "ideas": 87,
+      "role": "chapter",
+      "order": 23,
+      "prev": "stroje_a_zarizeni_026.html",
+      "next": "stroje_a_zarizeni_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NA KONCI TÝDNE",
+      "file": "stroje_a_zarizeni_028.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 24,
+      "prev": "stroje_a_zarizeni_027.html",
+      "next": "stroje_a_zarizeni_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NA KONCI TÝDNE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_029.html",
+      "words": 28,
+      "chars": 115,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 25,
+      "prev": "stroje_a_zarizeni_028.html",
+      "next": "stroje_a_zarizeni_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U vedlejšího stolu",
+      "file": "stroje_a_zarizeni_030.html",
+      "words": 76,
+      "chars": 457,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 26,
+      "prev": "stroje_a_zarizeni_029.html",
+      "next": "stroje_a_zarizeni_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U vedlejšího stolu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_031.html",
+      "words": 56,
+      "chars": 309,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 27,
+      "prev": "stroje_a_zarizeni_030.html",
+      "next": "stroje_a_zarizeni_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_032.html",
+      "words": 25,
+      "chars": 101,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 28,
+      "prev": "stroje_a_zarizeni_031.html",
+      "next": "stroje_a_zarizeni_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_033.html",
+      "words": 28,
+      "chars": 125,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "stroje_a_zarizeni_032.html",
+      "next": "stroje_a_zarizeni_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_034.html",
+      "words": 26,
+      "chars": 121,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 30,
+      "prev": "stroje_a_zarizeni_033.html",
+      "next": "stroje_a_zarizeni_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_035.html",
+      "words": 36,
+      "chars": 179,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 31,
+      "prev": "stroje_a_zarizeni_034.html",
+      "next": "stroje_a_zarizeni_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez překvapení",
+      "file": "stroje_a_zarizeni_036.html",
+      "words": 79,
+      "chars": 455,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 32,
+      "prev": "stroje_a_zarizeni_035.html",
+      "next": "stroje_a_zarizeni_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez překvapení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_037.html",
+      "words": 72,
+      "chars": 417,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 33,
+      "prev": "stroje_a_zarizeni_036.html",
+      "next": "stroje_a_zarizeni_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_038.html",
+      "words": 21,
+      "chars": 115,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 34,
+      "prev": "stroje_a_zarizeni_037.html",
+      "next": "stroje_a_zarizeni_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stránka dětství",
+      "file": "stroje_a_zarizeni_039.html",
+      "words": 21,
+      "chars": 122,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 35,
+      "prev": "stroje_a_zarizeni_038.html",
+      "next": "stroje_a_zarizeni_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stránka dětství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_040.html",
+      "words": 44,
+      "chars": 241,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 36,
+      "prev": "stroje_a_zarizeni_039.html",
+      "next": "stroje_a_zarizeni_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka",
+      "file": "stroje_a_zarizeni_041.html",
+      "words": 75,
+      "chars": 439,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 37,
+      "prev": "stroje_a_zarizeni_040.html",
+      "next": "stroje_a_zarizeni_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otevřeno",
+      "file": "stroje_a_zarizeni_042.html",
+      "words": 106,
+      "chars": 597,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 38,
+      "prev": "stroje_a_zarizeni_041.html",
+      "next": "stroje_a_zarizeni_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otevřeno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_043.html",
+      "words": 67,
+      "chars": 381,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 39,
+      "prev": "stroje_a_zarizeni_042.html",
+      "next": "stroje_a_zarizeni_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Banky prý nezmizí",
+      "file": "stroje_a_zarizeni_044.html",
+      "words": 103,
+      "chars": 650,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 40,
+      "prev": "stroje_a_zarizeni_043.html",
+      "next": "stroje_a_zarizeni_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Banky prý nezmizí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Album známek",
+      "file": "stroje_a_zarizeni_045.html",
+      "words": 114,
+      "chars": 699,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 41,
+      "prev": "stroje_a_zarizeni_044.html",
+      "next": "stroje_a_zarizeni_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Album známek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozůstalost",
+      "file": "stroje_a_zarizeni_046.html",
+      "words": 34,
+      "chars": 233,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "stroje_a_zarizeni_045.html",
+      "next": "stroje_a_zarizeni_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pozůstalost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neřešený problém",
+      "file": "stroje_a_zarizeni_047.html",
+      "words": 76,
+      "chars": 445,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 43,
+      "prev": "stroje_a_zarizeni_046.html",
+      "next": "stroje_a_zarizeni_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neřešený problém",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka",
+      "file": "stroje_a_zarizeni_048.html",
+      "words": 72,
+      "chars": 439,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 44,
+      "prev": "stroje_a_zarizeni_047.html",
+      "next": "stroje_a_zarizeni_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velikonoce",
+      "file": "stroje_a_zarizeni_049.html",
+      "words": 19,
+      "chars": 109,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 45,
+      "prev": "stroje_a_zarizeni_048.html",
+      "next": "stroje_a_zarizeni_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velikonoce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_050.html",
+      "words": 44,
+      "chars": 246,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 46,
+      "prev": "stroje_a_zarizeni_049.html",
+      "next": "stroje_a_zarizeni_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_051.html",
+      "words": 56,
+      "chars": 312,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 47,
+      "prev": "stroje_a_zarizeni_050.html",
+      "next": "stroje_a_zarizeni_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obrazy a básně",
+      "file": "stroje_a_zarizeni_052.html",
+      "words": 110,
+      "chars": 677,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 48,
+      "prev": "stroje_a_zarizeni_051.html",
+      "next": "stroje_a_zarizeni_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obrazy a básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_053.html",
+      "words": 13,
+      "chars": 56,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 49,
+      "prev": "stroje_a_zarizeni_052.html",
+      "next": "stroje_a_zarizeni_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Středy",
+      "file": "stroje_a_zarizeni_054.html",
+      "words": 86,
+      "chars": 477,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 50,
+      "prev": "stroje_a_zarizeni_053.html",
+      "next": "stroje_a_zarizeni_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Středy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přesýpací hodiny",
+      "file": "stroje_a_zarizeni_055.html",
+      "words": 105,
+      "chars": 679,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 51,
+      "prev": "stroje_a_zarizeni_054.html",
+      "next": "stroje_a_zarizeni_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přesýpací hodiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cestou",
+      "file": "stroje_a_zarizeni_056.html",
+      "words": 94,
+      "chars": 492,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 52,
+      "prev": "stroje_a_zarizeni_055.html",
+      "next": "stroje_a_zarizeni_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cestou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vítání",
+      "file": "stroje_a_zarizeni_057.html",
+      "words": 70,
+      "chars": 420,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 53,
+      "prev": "stroje_a_zarizeni_056.html",
+      "next": "stroje_a_zarizeni_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vítání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_058.html",
+      "words": 43,
+      "chars": 219,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 54,
+      "prev": "stroje_a_zarizeni_057.html",
+      "next": "stroje_a_zarizeni_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Demise",
+      "file": "stroje_a_zarizeni_059.html",
+      "words": 59,
+      "chars": 331,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 55,
+      "prev": "stroje_a_zarizeni_058.html",
+      "next": "stroje_a_zarizeni_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Demise",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_060.html",
+      "words": 75,
+      "chars": 421,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 56,
+      "prev": "stroje_a_zarizeni_059.html",
+      "next": "stroje_a_zarizeni_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Setkání",
+      "file": "stroje_a_zarizeni_061.html",
+      "words": 83,
+      "chars": 483,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 57,
+      "prev": "stroje_a_zarizeni_060.html",
+      "next": "stroje_a_zarizeni_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Setkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úkoly",
+      "file": "stroje_a_zarizeni_062.html",
+      "words": 38,
+      "chars": 238,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 58,
+      "prev": "stroje_a_zarizeni_061.html",
+      "next": "stroje_a_zarizeni_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úkoly",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Táhnout dobou",
+      "file": "stroje_a_zarizeni_063.html",
+      "words": 99,
+      "chars": 612,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 59,
+      "prev": "stroje_a_zarizeni_062.html",
+      "next": "stroje_a_zarizeni_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Táhnout dobou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_064.html",
+      "words": 104,
+      "chars": 589,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 60,
+      "prev": "stroje_a_zarizeni_063.html",
+      "next": "stroje_a_zarizeni_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věštby",
+      "file": "stroje_a_zarizeni_065.html",
+      "words": 83,
+      "chars": 469,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 61,
+      "prev": "stroje_a_zarizeni_064.html",
+      "next": "stroje_a_zarizeni_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věštby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zápisky",
+      "file": "stroje_a_zarizeni_066.html",
+      "words": 46,
+      "chars": 263,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 62,
+      "prev": "stroje_a_zarizeni_065.html",
+      "next": "stroje_a_zarizeni_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zápisky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Každý den stejný obraz",
+      "file": "stroje_a_zarizeni_067.html",
+      "words": 101,
+      "chars": 592,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 63,
+      "prev": "stroje_a_zarizeni_066.html",
+      "next": "stroje_a_zarizeni_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Každý den stejný obraz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zájezd",
+      "file": "stroje_a_zarizeni_068.html",
+      "words": 133,
+      "chars": 742,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 64,
+      "prev": "stroje_a_zarizeni_067.html",
+      "next": "stroje_a_zarizeni_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zájezd",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V čase",
+      "file": "stroje_a_zarizeni_069.html",
+      "words": 38,
+      "chars": 222,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 65,
+      "prev": "stroje_a_zarizeni_068.html",
+      "next": "stroje_a_zarizeni_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V čase",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V zrcadlech",
+      "file": "stroje_a_zarizeni_070.html",
+      "words": 34,
+      "chars": 229,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 66,
+      "prev": "stroje_a_zarizeni_069.html",
+      "next": "stroje_a_zarizeni_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V zrcadlech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_071.html",
+      "words": 51,
+      "chars": 298,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 67,
+      "prev": "stroje_a_zarizeni_070.html",
+      "next": "stroje_a_zarizeni_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_072.html",
+      "words": 62,
+      "chars": 378,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 68,
+      "prev": "stroje_a_zarizeni_071.html",
+      "next": "stroje_a_zarizeni_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pocta roastbeefu",
+      "file": "stroje_a_zarizeni_073.html",
+      "words": 142,
+      "chars": 885,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 69,
+      "prev": "stroje_a_zarizeni_072.html",
+      "next": "stroje_a_zarizeni_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pocta roastbeefu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_074.html",
+      "words": 31,
+      "chars": 172,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 70,
+      "prev": "stroje_a_zarizeni_073.html",
+      "next": "stroje_a_zarizeni_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na cestě kolem světa",
+      "file": "stroje_a_zarizeni_075.html",
+      "words": 55,
+      "chars": 321,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 71,
+      "prev": "stroje_a_zarizeni_074.html",
+      "next": "stroje_a_zarizeni_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na cestě kolem světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_076.html",
+      "words": 55,
+      "chars": 312,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 72,
+      "prev": "stroje_a_zarizeni_075.html",
+      "next": "stroje_a_zarizeni_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_077.html",
+      "words": 32,
+      "chars": 188,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 73,
+      "prev": "stroje_a_zarizeni_076.html",
+      "next": "stroje_a_zarizeni_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_078.html",
+      "words": 46,
+      "chars": 290,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 74,
+      "prev": "stroje_a_zarizeni_077.html",
+      "next": "stroje_a_zarizeni_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "stroje_a_zarizeni_079.html",
+      "words": 52,
+      "chars": 297,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 75,
+      "prev": "stroje_a_zarizeni_078.html",
+      "next": "stroje_a_zarizeni_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "STROJE A ZAŘÍZENÍ",
+      "file": "stroje_a_zarizeni_080.html",
+      "words": 17,
+      "chars": 89,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 76,
+      "prev": "stroje_a_zarizeni_079.html",
+      "next": "stroje_a_zarizeni_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "STROJE A ZAŘÍZENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroje a zařízení",
+      "file": "stroje_a_zarizeni_081.html",
+      "words": 374,
+      "chars": 2295,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 77,
+      "prev": "stroje_a_zarizeni_080.html",
+      "next": "stroje_a_zarizeni_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_082.html",
+      "words": 230,
+      "chars": 1492,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 78,
+      "prev": "stroje_a_zarizeni_081.html",
+      "next": "stroje_a_zarizeni_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_083.html",
+      "words": 386,
+      "chars": 2347,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 79,
+      "prev": "stroje_a_zarizeni_082.html",
+      "next": "stroje_a_zarizeni_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_084.html",
+      "words": 141,
+      "chars": 837,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 80,
+      "prev": "stroje_a_zarizeni_083.html",
+      "next": "stroje_a_zarizeni_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_085.html",
+      "words": 98,
+      "chars": 582,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 81,
+      "prev": "stroje_a_zarizeni_084.html",
+      "next": "stroje_a_zarizeni_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_086.html",
+      "words": 282,
+      "chars": 1679,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 82,
+      "prev": "stroje_a_zarizeni_085.html",
+      "next": "stroje_a_zarizeni_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "   ",
+      "file": "stroje_a_zarizeni_087.html",
+      "words": 192,
+      "chars": 1137,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 83,
+      "prev": "stroje_a_zarizeni_086.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 874,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "stroje_a_zarizeni_087.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6650,
+      "chars": 39028,
+      "ideas": 1489
+    },
+    "chapters": {
+      "words": 6507,
+      "chars": 38117,
+      "ideas": 1469
+    }
+  }
+}

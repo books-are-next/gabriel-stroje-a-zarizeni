@@ -1,11 +1,11 @@
 ---
 title: '*'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Lesy ať si pomohou s novým kontrabandem jak  
+Lesy ať si pomohou s novým kontrabandem jak  
      umějí  
 Horká sazba a rozesmáté klobouky  
 Běžné vykopávky co ještě nedávno slibovaly ráj  
@@ -28,6 +28,6 @@ Hedvábí v grimasách zkoušeli zda i večer žloutnou
 Kolik stupňů je právě na severním pólu  
 V Houilles vypouštěl rybičky mezi postavy které  
      nabízel místo doutníků  
-Publikoval naše básně nic z toho se neztratilo Ale prst dál běží po nebi kde není nic nového_
+Publikoval naše básně nic z toho se neztratilo Ale prst dál běží po nebi kde není nic nového
 
 </section>

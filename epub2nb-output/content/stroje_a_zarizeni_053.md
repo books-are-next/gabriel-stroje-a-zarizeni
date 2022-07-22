@@ -1,12 +1,12 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ulice kreslí své mapy  
+Ulice kreslí své mapy  
 Na záda chodců  
-Dokud se nesetmí_
+Dokud se nesetmí
 
 </section>

@@ -1,15 +1,15 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mít špalky na míru  
+Mít špalky na míru  
 Maso v kalhotách  
 Ztrácet rovnováhu  
 Vypláznout teploměr  
 V okolní zeleni  
-Už cítíme příští souznění_
+Už cítíme příští souznění
 
 </section>

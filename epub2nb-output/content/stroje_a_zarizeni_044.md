@@ -1,11 +1,11 @@
 ---
 title: Banky prý nezmizí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Města vystavěná jako naučné slovníky  
+Města vystavěná jako naučné slovníky  
 Korunovační sál vedle zaprášeného gramofonu  
 Několik pohledů  
 A hned se mluví o dějinách umění  
@@ -24,6 +24,6 @@ Několik neznámých slov v nákupních taškách
 Airbnb start-up scoring klientů blockchain  
 A za nimi celý jeden kontinent  
 Který už poněkolikáté  
-Pozoruje zatmění slunce_
+Pozoruje zatmění slunce
 
 </section>
