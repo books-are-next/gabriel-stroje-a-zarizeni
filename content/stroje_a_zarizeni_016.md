@@ -1,11 +1,11 @@
 ---
 title: Příměří
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vyjít na balkón  
+Vyjít na balkón  
 Podívat se kdo zemřel  
 Kdo se jen nalíčil  
 Možná jsou to koleje  
@@ -14,6 +14,6 @@ Co si v hrobce faraona
 Leští nehty  
 Možná je to sadař  
 Co však má společného Julius Zeyer  
-S vykouřenou cigaretou_
+S vykouřenou cigaretou
 
 </section>

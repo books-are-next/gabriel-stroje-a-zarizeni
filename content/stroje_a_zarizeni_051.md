@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Chuck Berry zemřel  
+Chuck Berry zemřel  
 Ale New York dál sálá z barevných ponožek  
 Těch kteří se pohupují na křižovatkách  
 Vnitřností  
@@ -14,21 +14,21 @@ Z rádia
 Skandovaní plísní  
 Ve výlohách  
 Celá města umírají pod sukněmi  
-Nudou_
+Nudou
 
 </section>
 
 <section>
 
-_Vizionář i legenda  
+Vizionář i legenda  
 V každém střepu kolem  
-Vítejte v pražské zoo_
+Vítejte v pražské zoo
 
 </section>
 
 <section>
 
-_Není to tak dávno  
-Co vraždy byly jen černobílé_
+Není to tak dávno  
+Co vraždy byly jen černobílé
 
 </section>

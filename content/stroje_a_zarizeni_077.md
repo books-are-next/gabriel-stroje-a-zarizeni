@@ -1,33 +1,33 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V modré  
-Zaokrouhlený letopočet_
+V modré  
+Zaokrouhlený letopočet
 
 </section>
 
 <section>
 
-_Přešlapování uklidňuje_
+Přešlapování uklidňuje
 
 </section>
 
 <section>
 
-_Nádor v noci odbíjí  
+Nádor v noci odbíjí  
 Tolik krásných tiků  
-V jednom jediném dopise_
+V jednom jediném dopise
 
 </section>
 
 <section>
 
-_Společnost v jižním ovoci  
+Společnost v jižním ovoci  
 Cestuje během večera z jedné metropole  
-Do druhé_
+Do druhé
 
 </section>

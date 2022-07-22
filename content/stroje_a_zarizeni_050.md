@@ -1,34 +1,34 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ohmataní obratlovci  
+Ohmataní obratlovci  
 Nepochybně cestou  
-Jakýpak kámen když je přespolní_
+Jakýpak kámen když je přespolní
 
 </section>
 
 <section>
 
-_Kdesi jsem četl  
+Kdesi jsem četl  
 Že v Národním muzeu  
 Kostru velryby napříště nahradí  
-Naučná stezka o kursu koruny_
+Naučná stezka o kursu koruny
 
 </section>
 
 <section>
 
-_Nuda zahajuje novou topnou sezónu_
+Nuda zahajuje novou topnou sezónu
 
 </section>
 
 <section>
 
-_Co je to ale za společnost  
-Která neví že je válka_
+Co je to ale za společnost  
+Která neví že je válka
 
 </section>

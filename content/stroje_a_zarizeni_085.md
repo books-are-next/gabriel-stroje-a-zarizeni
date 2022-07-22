@@ -1,11 +1,11 @@
 ---
 title: '*'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V parku u Kremlu posedávají na lavičkách staří  
+V parku u Kremlu posedávají na lavičkách staří  
      revolucionáři  
 Ve svých představách kreslí ploty  
 Jejich čela se pohupují ale kdo to kdy viděl holínky  
@@ -23,6 +23,6 @@ Trocha Ruska na ubruse dává tušit co bylo carské
 Jantarová špička horkého masa  
 Kdo ví čí rozpaky rozvěsíme příště ve tmě  
 Které svaly protáhneme kopírkou  
-Který jazyk bude rozumět stolní lampě_
+Který jazyk bude rozumět stolní lampě
 
 </section>

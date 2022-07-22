@@ -1,35 +1,35 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nemáme co nabídnout  
+Nemáme co nabídnout  
 Křeslo v němž se odpoledne zbavuje vrásek  
-Portréty matek prohledané stromy_
+Portréty matek prohledané stromy
 
 </section>
 
 <section>
 
-_Kouř z cigaret leští okolní nábytek_
+Kouř z cigaret leští okolní nábytek
 
 </section>
 
 <section>
 
-_Být dnes moderní  
+Být dnes moderní  
 Znamená přivlastnit si minulost  
 Dobu  
 Kdy porcelán nebyl povytaženým obočím  
 Kdy nepojmenovatelné křivky  
-Ještě byly letopočtem_
+Ještě byly letopočtem
 
 </section>
 
 <section>
 
-_Pohybuj trávou i vavřínem_
+Pohybuj trávou i vavřínem
 
 </section>

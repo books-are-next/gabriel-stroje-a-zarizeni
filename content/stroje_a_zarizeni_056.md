@@ -1,11 +1,11 @@
 ---
 title: Cestou
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jen co se vracíme  
+Jen co se vracíme  
 Už nám v dlani chrastí klíče  
 Kosti hlučí vegetací  
 Otřít čelo o výlohu  
@@ -17,33 +17,33 @@ Ještě na chvíli zabloudit
 V davu turistů  
 Vystavují své maso  
 Jako by to bylo zbořeniště  
-Ale jak se zdá na nikoho nežárlí_
+Ale jak se zdá na nikoho nežárlí
 
 </section>
 
 <section>
 
-_Miřte přesně_
+Miřte přesně
 
 </section>
 
 <section>
 
-_Kdoví co je čeká  
+Kdoví co je čeká  
 Paštika s příběhem  
-Brodit se tmou až k ranní erekci_
+Brodit se tmou až k ranní erekci
 
 </section>
 
 <section>
 
-_Co nám patří bloudí po schodech  
-Mluví jen španělsky ale je plný těsta_
+Co nám patří bloudí po schodech  
+Mluví jen španělsky ale je plný těsta
 
 </section>
 
 <section>
 
-_Nikdo z nás už neprožil život v koloniích_
+Nikdo z nás už neprožil život v koloniích
 
 </section>

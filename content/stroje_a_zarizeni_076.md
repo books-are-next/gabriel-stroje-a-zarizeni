@@ -1,34 +1,34 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Byly zde stromy  
+Byly zde stromy  
 Trochu zvonky trochu lesy  
 Okna plná rukou  
 Se k ránu zvětšují  
 Jako trhací kalendáře  
 Někdo přiběhl  
-A snažil se odloupnout kus omítky_
+A snažil se odloupnout kus omítky
 
 </section>
 
 <section>
 
-_Vše jsem sepsal  
+Vše jsem sepsal  
 Kolonoskopii i astronomii  
 Přehmaty přeháněk  
-Zimu o dvou koncích uvnitř stolu_
+Zimu o dvou koncích uvnitř stolu
 
 </section>
 
 <section>
 
-_Nespěchej  
+Nespěchej  
 Není proč zívat  
 Číňané zadrželi Zemanova poradce z CEFC  
-Bifteky z mraků_
+Bifteky z mraků
 
 </section>

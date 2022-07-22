@@ -1,15 +1,15 @@
 ---
 title: Velikonoce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pohlednice  
+Pohlednice  
 Tentokrát doopravdy  
 Mátožné v krajkách  
 Či snad na severu  
 A co má být  
-Jaro v letopočtech nezní_
+Jaro v letopočtech nezní
 
 </section>

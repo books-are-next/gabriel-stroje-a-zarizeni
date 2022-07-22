@@ -1,6 +1,6 @@
 ---
 title: NÁLEZY
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 title: Na cestě kolem světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zítra je první jarní den  
+Zítra je první jarní den  
 Zatoulaný večer na cestě kolem světa  
 Ale teploměr ukazuje minus patnáct  
 Tak dlouho dokud není všechna bouřka  
@@ -16,6 +16,6 @@ Pytle jsou plné některé nejsou ani vidět
 Jak se zmenšily  
 Igor Stravinskij požadoval  
 Aby každé jméno  
-Bylo bez moře_
+Bylo bez moře
 
 </section>

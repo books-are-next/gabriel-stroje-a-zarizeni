@@ -1,11 +1,11 @@
 ---
 title: Neřešený problém
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vím  
+Vím  
 Kdysi stačilo pánům logaritmické pravítko  
 Aby spočítali která odmocnina  
 Se vejde do výstřihu  
@@ -20,6 +20,6 @@ Lidé si vymýšlejí dlouhé věty z provázků
 Aby je mohli opravovat  
 Když už si není na co sáhnout  
 Balzac byl první kdo popsal celé město  
-Bez jediné uvozovky_
+Bez jediné uvozovky
 
 </section>

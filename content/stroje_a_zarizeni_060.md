@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Komu psát  
+Komu psát  
 Posílat dlouhé chodby  
 Mraky co se nevešly do kabátů  
 Po ránu věnčit rozespalé ulice  
@@ -21,6 +21,6 @@ Jen svazek klíčů
 Polsko na konci týdne  
 Odshora až dolů  
 V dámském kapesníku  
-Blesk nahého masa_
+Blesk nahého masa
 
 </section>

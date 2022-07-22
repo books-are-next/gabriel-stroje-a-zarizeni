@@ -1,11 +1,11 @@
 ---
 title: U vedlejšího stolu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Spěte  
+Spěte  
 Mluvíte rusky  
 Hrajete si  
 Nad vašimi talíři plují mraky  
@@ -20,6 +20,6 @@ Několik vět až z Drážďan
 Když odešli zůstali po nich jen ptáci  
 Žádní dobrodruzi z těchto rovnic nevyplavou  
 Raději stojí ve tmě frontu na svítání  
-Na sluneční brýle s odlesky minaretů_
+Na sluneční brýle s odlesky minaretů
 
 </section>

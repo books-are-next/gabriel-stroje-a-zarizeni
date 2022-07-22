@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -10,21 +10,21 @@ jsou
 plné  
 svými ňadry
 
-_\* \* \*_
+\* \* \*
 
-_V každé louži  
+V každé louži  
 se zrcadlí  
-i celý román_
+i celý román
 
 </section>
 
 <section>
 
-_\* \* \*_
+\* \* \*
 
-_Za bouřky  
+Za bouřky  
 je slyšet  
 světlo  
-křiku_
+křiku
 
 </section>

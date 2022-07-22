@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -10,23 +10,23 @@ je otevřeným oknem
 na řeku  
 obrazu
 
-_\* \* \*_
+\* \* \*
 
-_Stehna  
+Stehna  
 jsou jako  
 zvonky u dveří  
 mají  
-vlastní adresu_
+vlastní adresu
 
 </section>
 
 <section>
 
-_\* \* \*_
+\* \* \*
 
-_Stín  
+Stín  
 Pod nábytkem  
 Je  
-Bezbarvý_
+Bezbarvý
 
 </section>

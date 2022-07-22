@@ -1,11 +1,11 @@
 ---
 title: Úkoly
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přestavovat hlasy  
+Přestavovat hlasy  
 Svítat  
 Tvé rty se skládají a rozkládají  
 Jako cestovní mapy  
@@ -17,6 +17,6 @@ Pohlaví
 Splasknout  
 Šumět  
 Zrát jako komtesa  
-Smíchem prstů_
+Smíchem prstů
 
 </section>

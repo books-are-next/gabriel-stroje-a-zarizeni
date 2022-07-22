@@ -1,11 +1,11 @@
 ---
 title: Náměstí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Každé nábřeží s přilehlou uličkou  
+Každé nábřeží s přilehlou uličkou  
 Uzavírá noc  
 Střechy bez mraků  
 Jako staré omyly  
@@ -19,6 +19,6 @@ Hitparádu pohledů
 Jeden se řadil k druhému  
 Stále si ještě vyprávějí  
 Potápějí se  
-I když jsou dávno po smrti_
+I když jsou dávno po smrti
 
 </section>

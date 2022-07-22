@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Objevují se jen za bouřky  
+Objevují se jen za bouřky  
 Dobrodružství pohozené vedle zubního  
      kartáčku  
 Učím tě hláskovat podle barev  
@@ -21,6 +21,6 @@ Z každé strany slyším jiný smích
 Nohy s povytaženým obočím  
 Ne to nejsou pohádky jsou to koše  
 Masážní salony  
-Pravda jen za soumraku_
+Pravda jen za soumraku
 
 </section>

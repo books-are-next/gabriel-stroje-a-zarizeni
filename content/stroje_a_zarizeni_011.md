@@ -1,33 +1,33 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tužkou měříš stíny  
+Tužkou měříš stíny  
 Úhlopříčky  
-Křik roztahaný v koutě zahrady_
+Křik roztahaný v koutě zahrady
 
 </section>
 
 <section>
 
-_Kolik písmen se ještě skrývá v abecedě  
+Kolik písmen se ještě skrývá v abecedě  
 Než temné mraky zívnutí  
-Budou jako klobouky_
+Budou jako klobouky
 
 </section>
 
 <section>
 
-_Servírky: duo v průvanu ranních novin_
+Servírky: duo v průvanu ranních novin
 
 </section>
 
 <section>
 
-_Věčně počmárané zásuvky  
-Neřekly poslední slovo_
+Věčně počmárané zásuvky  
+Neřekly poslední slovo
 
 </section>

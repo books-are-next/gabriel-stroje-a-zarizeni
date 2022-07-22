@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mohli jsme to tušit  
+Mohli jsme to tušit  
 I v jižním ovoci se rychle stmívá  
 V těsnopise jsou stažené žaluzie cestovní pomůcky  
 Žádné cesty  
@@ -23,6 +23,6 @@ Trestat pokutou
 O sodomii se však nemluví  
 Jen o cizokrajných známkách  
 Jste to skutečně vy  
-Co chvíli se objeví i jiná strašidla_
+Co chvíli se objeví i jiná strašidla
 
 </section>

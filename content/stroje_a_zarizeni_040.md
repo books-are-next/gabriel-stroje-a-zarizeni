@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dřevěný plot jen jako pták  
+Dřevěný plot jen jako pták  
 Sako povytažené z tunelu  
 Někteří vymysleli že se soumrakem  
 Se budou ztrácet prsty  
@@ -13,6 +13,6 @@ Je toho tolik čemu se můžeme smát
 Vzorce chřadnou šumí  
 Možná naposledy  
 Někde i plameny  
-Rozešité dámy dlouho do noci povlávají ve skříni_
+Rozešité dámy dlouho do noci povlávají ve skříni
 
 </section>

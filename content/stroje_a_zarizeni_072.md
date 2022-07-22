@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přidat k jazzu popotahování nosem  
+Přidat k jazzu popotahování nosem  
 Záhyby záclon k půlnoci  
 Volejte do uší kde všude svítí pytle mouky  
 Zvoní kosti chrastí neony  
@@ -18,6 +18,6 @@ Co vidíme na zdi
 Jsou stále ještě obrazy  
 Noční poblikávání cigaret  
 Slova jež nelze vypočítat  
-Ani změřit_
+Ani změřit
 
 </section>

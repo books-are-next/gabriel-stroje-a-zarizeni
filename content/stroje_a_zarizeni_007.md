@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nebudu Vám namlouvat  
+Nebudu Vám namlouvat  
 Že slunce vychází v 7.30  
 Zvířata mají své tabatěrky  
 Něžné oči i zácpu  
@@ -15,13 +15,13 @@ Snad i návod
 Které souhvězdí je mezi palcem a ukazováčkem  
 Ale pořád ještě vím  
 Že v prádle dál chrastí dlažba  
-Stín jazyka s celým městem navíc_
+Stín jazyka s celým městem navíc
 
 </section>
 
 <section>
 
-_Dveře domů hledí přísně na ty  
-Kteří nemají klobouky_
+Dveře domů hledí přísně na ty  
+Kteří nemají klobouky
 
 </section>

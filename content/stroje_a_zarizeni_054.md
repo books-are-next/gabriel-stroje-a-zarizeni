@@ -1,11 +1,11 @@
 ---
 title: Středy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tvé věčné cestování mezi slepicí a Kamýkem  
+Tvé věčné cestování mezi slepicí a Kamýkem  
 Autobusem větví talířem  
 Jen vědět že tady je ještě Hongkong  
 A tady už Praha  
@@ -23,6 +23,6 @@ Co chvíli novou pláž
 Duben ve vráskách parket  
 Auta jsou za deště rychlejší  
 Či snad máš jiné vysvětlení pro tmu  
-Ruce už tuší lesklý povrch masa_
+Ruce už tuší lesklý povrch masa
 
 </section>

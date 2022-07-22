@@ -1,11 +1,11 @@
 ---
 title: '*'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Občas stačilo Henri vejce na celé odpoledne  
+Občas stačilo Henri vejce na celé odpoledne  
 Pocukrované Mariánské Lázně  
 Podávané jako předkrm k příštím úsměvům  
 Poblázněný saxofonista mně koupil na  
@@ -17,13 +17,13 @@ Až to praskne zajedeme si na pravý sachr do
      Vídně říkal otec  
 Znělo to celých čtyřicet let jako vůně herbáře  
 Nadávky mezi planetami nic neprozradily  
-Ani vzorce jak nejlépe prožít volný čas_
+Ani vzorce jak nejlépe prožít volný čas
 
 </section>
 
 <section>
 
-_Pomalé kornatění tepen nad slovem početnice  
+Pomalé kornatění tepen nad slovem početnice  
 Nic víc než bloudění prstů  
 Vědomí že i v Benátkách je hotel Gabrielli  
 Vysoké podpatky vyťukávaly na kamenné dlažbě  
@@ -37,13 +37,13 @@ Takové horko a kolem dokola zase jen nedělní
      kulisy  
 Marná snaha přijmout všechna zrcadla  
 Ach ano Rollinsův nedostižný saxofon  
-Bloudí ve vráskách skleníků_
+Bloudí ve vráskách skleníků
 
 </section>
 
 <section>
 
-_Stárneme  
+Stárneme  
 Ale již v kufrech s nimiž jsme kdysi odjížděli  
      na letní byty  
 Byly přibaleny všechny příští pohromy  
@@ -54,13 +54,13 @@ Tající sněhové vločky se snášely v hospodě
      U Kocoura  
 Jen několik týdnů poté co zemřela Toyen  
 Nezapomínejme že každý blesk vylidní přístav  
-Návraty ranní tramvají mezi regály knihovny_
+Návraty ranní tramvají mezi regály knihovny
 
 </section>
 
 <section>
 
-_Anina přilehla jako pouhý omyl  
+Anina přilehla jako pouhý omyl  
 Včela plná koření žádná zalidněná zahrada  
 Někde ještě dohořívají Karlovy Vary  
 Ale všude kolem se již rozléhá rozešité ticho  
@@ -80,13 +80,13 @@ Na níž se chodci ztráceli v dešti a auta připomínala
      splasklé deštníky  
 Jen první modrá gauloiska zůstane plná netrpělivých  
      pohledů  
-I obav co všechno se zapomene_
+I obav co všechno se zapomene
 
 </section>
 
 <section>
 
-_Nebožtíci se diví že ještě jiskří  
+Nebožtíci se diví že ještě jiskří  
 Lucie poztrácela své pihy v Londýně  
 Lhostejná k někdejším bonmotům dopisům  
      plným odložených ptáků  
@@ -95,6 +95,6 @@ Pane Gabrieli naučte mě kouřit musím být
 Stmívá se jako když se přestřihují dráty  
 V Česku podlehlo letos chřipce 225 lidí  
 A Praha ruší požadavek na oslunění bytů stačit  
-     bude denní světlo_
+     bude denní světlo
 
 </section>
