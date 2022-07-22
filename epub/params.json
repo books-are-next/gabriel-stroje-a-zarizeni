@@ -1,1 +1,1787 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Stroje a zařízení",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Gabriel",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-22T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "stroje_a_zarizeni_001.md",
+            "xhtml": "stroje_a_zarizeni_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_002.md",
+            "xhtml": "stroje_a_zarizeni_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_003.md",
+            "xhtml": "stroje_a_zarizeni_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_004.md",
+            "xhtml": "stroje_a_zarizeni_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_005.md",
+            "xhtml": "stroje_a_zarizeni_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "POULIČNÍ BLESKY"
+          },
+          {
+            "filename": "stroje_a_zarizeni_006.md",
+            "xhtml": "stroje_a_zarizeni_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dopoledne"
+          },
+          {
+            "filename": "stroje_a_zarizeni_007.md",
+            "xhtml": "stroje_a_zarizeni_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_008.md",
+            "xhtml": "stroje_a_zarizeni_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Každá smrt má své stíny"
+          },
+          {
+            "filename": "stroje_a_zarizeni_009.md",
+            "xhtml": "stroje_a_zarizeni_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_010.md",
+            "xhtml": "stroje_a_zarizeni_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_011.md",
+            "xhtml": "stroje_a_zarizeni_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_012.md",
+            "xhtml": "stroje_a_zarizeni_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vrstva po vrstvě"
+          },
+          {
+            "filename": "stroje_a_zarizeni_013.md",
+            "xhtml": "stroje_a_zarizeni_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_014.md",
+            "xhtml": "stroje_a_zarizeni_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Překážky"
+          },
+          {
+            "filename": "stroje_a_zarizeni_015.md",
+            "xhtml": "stroje_a_zarizeni_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jen tak"
+          },
+          {
+            "filename": "stroje_a_zarizeni_016.md",
+            "xhtml": "stroje_a_zarizeni_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Příměří"
+          },
+          {
+            "filename": "stroje_a_zarizeni_017.md",
+            "xhtml": "stroje_a_zarizeni_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_018.md",
+            "xhtml": "stroje_a_zarizeni_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Anatomický atlas"
+          },
+          {
+            "filename": "stroje_a_zarizeni_019.md",
+            "xhtml": "stroje_a_zarizeni_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cestování"
+          },
+          {
+            "filename": "stroje_a_zarizeni_020.md",
+            "xhtml": "stroje_a_zarizeni_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na Kampě"
+          },
+          {
+            "filename": "stroje_a_zarizeni_021.md",
+            "xhtml": "stroje_a_zarizeni_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Turistická sezóna"
+          },
+          {
+            "filename": "stroje_a_zarizeni_022.md",
+            "xhtml": "stroje_a_zarizeni_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * * "
+          },
+          {
+            "filename": "stroje_a_zarizeni_023.md",
+            "xhtml": "stroje_a_zarizeni_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_024.md",
+            "xhtml": "stroje_a_zarizeni_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náměstí"
+          },
+          {
+            "filename": "stroje_a_zarizeni_025.md",
+            "xhtml": "stroje_a_zarizeni_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Letní blesky"
+          },
+          {
+            "filename": "stroje_a_zarizeni_026.md",
+            "xhtml": "stroje_a_zarizeni_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "NÁLEZY"
+          },
+          {
+            "filename": "stroje_a_zarizeni_027.md",
+            "xhtml": "stroje_a_zarizeni_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_028.md",
+            "xhtml": "stroje_a_zarizeni_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "NA KONCI TÝDNE"
+          },
+          {
+            "filename": "stroje_a_zarizeni_029.md",
+            "xhtml": "stroje_a_zarizeni_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_030.md",
+            "xhtml": "stroje_a_zarizeni_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "U vedlejšího stolu"
+          },
+          {
+            "filename": "stroje_a_zarizeni_031.md",
+            "xhtml": "stroje_a_zarizeni_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_032.md",
+            "xhtml": "stroje_a_zarizeni_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_033.md",
+            "xhtml": "stroje_a_zarizeni_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_034.md",
+            "xhtml": "stroje_a_zarizeni_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_035.md",
+            "xhtml": "stroje_a_zarizeni_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_036.md",
+            "xhtml": "stroje_a_zarizeni_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bez překvapení"
+          },
+          {
+            "filename": "stroje_a_zarizeni_037.md",
+            "xhtml": "stroje_a_zarizeni_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_038.md",
+            "xhtml": "stroje_a_zarizeni_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_039.md",
+            "xhtml": "stroje_a_zarizeni_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stránka dětství"
+          },
+          {
+            "filename": "stroje_a_zarizeni_040.md",
+            "xhtml": "stroje_a_zarizeni_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_041.md",
+            "xhtml": "stroje_a_zarizeni_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka"
+          },
+          {
+            "filename": "stroje_a_zarizeni_042.md",
+            "xhtml": "stroje_a_zarizeni_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Otevřeno"
+          },
+          {
+            "filename": "stroje_a_zarizeni_043.md",
+            "xhtml": "stroje_a_zarizeni_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_044.md",
+            "xhtml": "stroje_a_zarizeni_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Banky prý nezmizí"
+          },
+          {
+            "filename": "stroje_a_zarizeni_045.md",
+            "xhtml": "stroje_a_zarizeni_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Album známek"
+          },
+          {
+            "filename": "stroje_a_zarizeni_046.md",
+            "xhtml": "stroje_a_zarizeni_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pozůstalost"
+          },
+          {
+            "filename": "stroje_a_zarizeni_047.md",
+            "xhtml": "stroje_a_zarizeni_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Neřešený problém"
+          },
+          {
+            "filename": "stroje_a_zarizeni_048.md",
+            "xhtml": "stroje_a_zarizeni_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vzpomínka"
+          },
+          {
+            "filename": "stroje_a_zarizeni_049.md",
+            "xhtml": "stroje_a_zarizeni_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Velikonoce"
+          },
+          {
+            "filename": "stroje_a_zarizeni_050.md",
+            "xhtml": "stroje_a_zarizeni_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_051.md",
+            "xhtml": "stroje_a_zarizeni_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_052.md",
+            "xhtml": "stroje_a_zarizeni_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Obrazy a básně"
+          },
+          {
+            "filename": "stroje_a_zarizeni_053.md",
+            "xhtml": "stroje_a_zarizeni_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_054.md",
+            "xhtml": "stroje_a_zarizeni_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Středy"
+          },
+          {
+            "filename": "stroje_a_zarizeni_055.md",
+            "xhtml": "stroje_a_zarizeni_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Přesýpací hodiny"
+          },
+          {
+            "filename": "stroje_a_zarizeni_056.md",
+            "xhtml": "stroje_a_zarizeni_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Cestou"
+          },
+          {
+            "filename": "stroje_a_zarizeni_057.md",
+            "xhtml": "stroje_a_zarizeni_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vítání"
+          },
+          {
+            "filename": "stroje_a_zarizeni_058.md",
+            "xhtml": "stroje_a_zarizeni_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_059.md",
+            "xhtml": "stroje_a_zarizeni_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Demise"
+          },
+          {
+            "filename": "stroje_a_zarizeni_060.md",
+            "xhtml": "stroje_a_zarizeni_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_061.md",
+            "xhtml": "stroje_a_zarizeni_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Setkání"
+          },
+          {
+            "filename": "stroje_a_zarizeni_062.md",
+            "xhtml": "stroje_a_zarizeni_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Úkoly"
+          },
+          {
+            "filename": "stroje_a_zarizeni_063.md",
+            "xhtml": "stroje_a_zarizeni_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Táhnout dobou"
+          },
+          {
+            "filename": "stroje_a_zarizeni_064.md",
+            "xhtml": "stroje_a_zarizeni_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_065.md",
+            "xhtml": "stroje_a_zarizeni_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Věštby"
+          },
+          {
+            "filename": "stroje_a_zarizeni_066.md",
+            "xhtml": "stroje_a_zarizeni_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zápisky"
+          },
+          {
+            "filename": "stroje_a_zarizeni_067.md",
+            "xhtml": "stroje_a_zarizeni_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Každý den stejný obraz"
+          },
+          {
+            "filename": "stroje_a_zarizeni_068.md",
+            "xhtml": "stroje_a_zarizeni_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zájezd"
+          },
+          {
+            "filename": "stroje_a_zarizeni_069.md",
+            "xhtml": "stroje_a_zarizeni_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V čase"
+          },
+          {
+            "filename": "stroje_a_zarizeni_070.md",
+            "xhtml": "stroje_a_zarizeni_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V zrcadlech"
+          },
+          {
+            "filename": "stroje_a_zarizeni_071.md",
+            "xhtml": "stroje_a_zarizeni_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_072.md",
+            "xhtml": "stroje_a_zarizeni_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_073.md",
+            "xhtml": "stroje_a_zarizeni_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pocta roastbeefu"
+          },
+          {
+            "filename": "stroje_a_zarizeni_074.md",
+            "xhtml": "stroje_a_zarizeni_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_075.md",
+            "xhtml": "stroje_a_zarizeni_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na cestě kolem světa"
+          },
+          {
+            "filename": "stroje_a_zarizeni_076.md",
+            "xhtml": "stroje_a_zarizeni_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_077.md",
+            "xhtml": "stroje_a_zarizeni_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_078.md",
+            "xhtml": "stroje_a_zarizeni_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_079.md",
+            "xhtml": "stroje_a_zarizeni_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "stroje_a_zarizeni_080.md",
+            "xhtml": "stroje_a_zarizeni_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "STROJE A ZAŘÍZENÍ"
+          },
+          {
+            "filename": "stroje_a_zarizeni_081.md",
+            "xhtml": "stroje_a_zarizeni_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "stroje_a_zarizeni_082.md",
+            "xhtml": "stroje_a_zarizeni_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_083.md",
+            "xhtml": "stroje_a_zarizeni_083.xhtml",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_084.md",
+            "xhtml": "stroje_a_zarizeni_084.xhtml",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_085.md",
+            "xhtml": "stroje_a_zarizeni_085.xhtml",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_086.md",
+            "xhtml": "stroje_a_zarizeni_086.xhtml",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_087.md",
+            "xhtml": "stroje_a_zarizeni_087.xhtml",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "*"
+          },
+          {
+            "filename": "stroje_a_zarizeni_088.md",
+            "xhtml": "stroje_a_zarizeni_088.xhtml",
+            "id": 87,
+            "role": "about",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Stroje a zařízení",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Gabriel",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-22T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_001.md",
+        "xhtml": "stroje_a_zarizeni_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_002.md",
+        "xhtml": "stroje_a_zarizeni_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_003.md",
+        "xhtml": "stroje_a_zarizeni_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_004.md",
+        "xhtml": "stroje_a_zarizeni_004.xhtml"
+      },
+      {
+        "titleSuggest": "POULIČNÍ BLESKY",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_005.md",
+        "xhtml": "stroje_a_zarizeni_005.xhtml"
+      },
+      {
+        "titleSuggest": "Dopoledne",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_006.md",
+        "xhtml": "stroje_a_zarizeni_006.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_007.md",
+        "xhtml": "stroje_a_zarizeni_007.xhtml"
+      },
+      {
+        "titleSuggest": "Každá smrt má své stíny",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_008.md",
+        "xhtml": "stroje_a_zarizeni_008.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_009.md",
+        "xhtml": "stroje_a_zarizeni_009.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_010.md",
+        "xhtml": "stroje_a_zarizeni_010.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_011.md",
+        "xhtml": "stroje_a_zarizeni_011.xhtml"
+      },
+      {
+        "titleSuggest": "Vrstva po vrstvě",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_012.md",
+        "xhtml": "stroje_a_zarizeni_012.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_013.md",
+        "xhtml": "stroje_a_zarizeni_013.xhtml"
+      },
+      {
+        "titleSuggest": "Překážky",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_014.md",
+        "xhtml": "stroje_a_zarizeni_014.xhtml"
+      },
+      {
+        "titleSuggest": "Jen tak",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_015.md",
+        "xhtml": "stroje_a_zarizeni_015.xhtml"
+      },
+      {
+        "titleSuggest": "Příměří",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_016.md",
+        "xhtml": "stroje_a_zarizeni_016.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_017.md",
+        "xhtml": "stroje_a_zarizeni_017.xhtml"
+      },
+      {
+        "titleSuggest": "Anatomický atlas",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_018.md",
+        "xhtml": "stroje_a_zarizeni_018.xhtml"
+      },
+      {
+        "titleSuggest": "Cestování",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_019.md",
+        "xhtml": "stroje_a_zarizeni_019.xhtml"
+      },
+      {
+        "titleSuggest": "Na Kampě",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_020.md",
+        "xhtml": "stroje_a_zarizeni_020.xhtml"
+      },
+      {
+        "titleSuggest": "Turistická sezóna",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_021.md",
+        "xhtml": "stroje_a_zarizeni_021.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_022.md",
+        "xhtml": "stroje_a_zarizeni_022.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_023.md",
+        "xhtml": "stroje_a_zarizeni_023.xhtml"
+      },
+      {
+        "titleSuggest": "Náměstí",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_024.md",
+        "xhtml": "stroje_a_zarizeni_024.xhtml"
+      },
+      {
+        "titleSuggest": "Letní blesky",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_025.md",
+        "xhtml": "stroje_a_zarizeni_025.xhtml"
+      },
+      {
+        "titleSuggest": "NÁLEZY",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_026.md",
+        "xhtml": "stroje_a_zarizeni_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_027.md",
+        "xhtml": "stroje_a_zarizeni_027.xhtml"
+      },
+      {
+        "titleSuggest": "NA KONCI TÝDNE",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_028.md",
+        "xhtml": "stroje_a_zarizeni_028.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_029.md",
+        "xhtml": "stroje_a_zarizeni_029.xhtml"
+      },
+      {
+        "titleSuggest": "U vedlejšího stolu",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_030.md",
+        "xhtml": "stroje_a_zarizeni_030.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_031.md",
+        "xhtml": "stroje_a_zarizeni_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_032.md",
+        "xhtml": "stroje_a_zarizeni_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_033.md",
+        "xhtml": "stroje_a_zarizeni_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_034.md",
+        "xhtml": "stroje_a_zarizeni_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_035.md",
+        "xhtml": "stroje_a_zarizeni_035.xhtml"
+      },
+      {
+        "titleSuggest": "Bez překvapení",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_036.md",
+        "xhtml": "stroje_a_zarizeni_036.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_037.md",
+        "xhtml": "stroje_a_zarizeni_037.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_038.md",
+        "xhtml": "stroje_a_zarizeni_038.xhtml"
+      },
+      {
+        "titleSuggest": "Stránka dětství",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_039.md",
+        "xhtml": "stroje_a_zarizeni_039.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_040.md",
+        "xhtml": "stroje_a_zarizeni_040.xhtml"
+      },
+      {
+        "titleSuggest": "Vzpomínka",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_041.md",
+        "xhtml": "stroje_a_zarizeni_041.xhtml"
+      },
+      {
+        "titleSuggest": "Otevřeno",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_042.md",
+        "xhtml": "stroje_a_zarizeni_042.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_043.md",
+        "xhtml": "stroje_a_zarizeni_043.xhtml"
+      },
+      {
+        "titleSuggest": "Banky prý nezmizí",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_044.md",
+        "xhtml": "stroje_a_zarizeni_044.xhtml"
+      },
+      {
+        "titleSuggest": "Album známek",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_045.md",
+        "xhtml": "stroje_a_zarizeni_045.xhtml"
+      },
+      {
+        "titleSuggest": "Pozůstalost",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_046.md",
+        "xhtml": "stroje_a_zarizeni_046.xhtml"
+      },
+      {
+        "titleSuggest": "Neřešený problém",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_047.md",
+        "xhtml": "stroje_a_zarizeni_047.xhtml"
+      },
+      {
+        "titleSuggest": "Vzpomínka",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_048.md",
+        "xhtml": "stroje_a_zarizeni_048.xhtml"
+      },
+      {
+        "titleSuggest": "Velikonoce",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_049.md",
+        "xhtml": "stroje_a_zarizeni_049.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_050.md",
+        "xhtml": "stroje_a_zarizeni_050.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_051.md",
+        "xhtml": "stroje_a_zarizeni_051.xhtml"
+      },
+      {
+        "titleSuggest": "Obrazy a básně",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_052.md",
+        "xhtml": "stroje_a_zarizeni_052.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_053.md",
+        "xhtml": "stroje_a_zarizeni_053.xhtml"
+      },
+      {
+        "titleSuggest": "Středy",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_054.md",
+        "xhtml": "stroje_a_zarizeni_054.xhtml"
+      },
+      {
+        "titleSuggest": "Přesýpací hodiny",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_055.md",
+        "xhtml": "stroje_a_zarizeni_055.xhtml"
+      },
+      {
+        "titleSuggest": "Cestou",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_056.md",
+        "xhtml": "stroje_a_zarizeni_056.xhtml"
+      },
+      {
+        "titleSuggest": "Vítání",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_057.md",
+        "xhtml": "stroje_a_zarizeni_057.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_058.md",
+        "xhtml": "stroje_a_zarizeni_058.xhtml"
+      },
+      {
+        "titleSuggest": "Demise",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_059.md",
+        "xhtml": "stroje_a_zarizeni_059.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_060.md",
+        "xhtml": "stroje_a_zarizeni_060.xhtml"
+      },
+      {
+        "titleSuggest": "Setkání",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_061.md",
+        "xhtml": "stroje_a_zarizeni_061.xhtml"
+      },
+      {
+        "titleSuggest": "Úkoly",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_062.md",
+        "xhtml": "stroje_a_zarizeni_062.xhtml"
+      },
+      {
+        "titleSuggest": "Táhnout dobou",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_063.md",
+        "xhtml": "stroje_a_zarizeni_063.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_064.md",
+        "xhtml": "stroje_a_zarizeni_064.xhtml"
+      },
+      {
+        "titleSuggest": "Věštby",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_065.md",
+        "xhtml": "stroje_a_zarizeni_065.xhtml"
+      },
+      {
+        "titleSuggest": "Zápisky",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_066.md",
+        "xhtml": "stroje_a_zarizeni_066.xhtml"
+      },
+      {
+        "titleSuggest": "Každý den stejný obraz",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_067.md",
+        "xhtml": "stroje_a_zarizeni_067.xhtml"
+      },
+      {
+        "titleSuggest": "Zájezd",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_068.md",
+        "xhtml": "stroje_a_zarizeni_068.xhtml"
+      },
+      {
+        "titleSuggest": "V čase",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_069.md",
+        "xhtml": "stroje_a_zarizeni_069.xhtml"
+      },
+      {
+        "titleSuggest": "V zrcadlech",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_070.md",
+        "xhtml": "stroje_a_zarizeni_070.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_071.md",
+        "xhtml": "stroje_a_zarizeni_071.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_072.md",
+        "xhtml": "stroje_a_zarizeni_072.xhtml"
+      },
+      {
+        "titleSuggest": "Pocta roastbeefu",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_073.md",
+        "xhtml": "stroje_a_zarizeni_073.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_074.md",
+        "xhtml": "stroje_a_zarizeni_074.xhtml"
+      },
+      {
+        "titleSuggest": "Na cestě kolem světa",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_075.md",
+        "xhtml": "stroje_a_zarizeni_075.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_076.md",
+        "xhtml": "stroje_a_zarizeni_076.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_077.md",
+        "xhtml": "stroje_a_zarizeni_077.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_078.md",
+        "xhtml": "stroje_a_zarizeni_078.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_079.md",
+        "xhtml": "stroje_a_zarizeni_079.xhtml"
+      },
+      {
+        "titleSuggest": "STROJE A ZAŘÍZENÍ",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_080.md",
+        "xhtml": "stroje_a_zarizeni_080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_081.md",
+        "xhtml": "stroje_a_zarizeni_081.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_082.md",
+        "xhtml": "stroje_a_zarizeni_082.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_083.md",
+        "xhtml": "stroje_a_zarizeni_083.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_084.md",
+        "xhtml": "stroje_a_zarizeni_084.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_085.md",
+        "xhtml": "stroje_a_zarizeni_085.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_086.md",
+        "xhtml": "stroje_a_zarizeni_086.xhtml"
+      },
+      {
+        "titleSuggest": "*",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_087.md",
+        "xhtml": "stroje_a_zarizeni_087.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "stroje_a_zarizeni_088.md",
+        "xhtml": "stroje_a_zarizeni_088.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_stroje_a_zarizeni.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "FAKE_NADPIS1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_basne",
+      "MLP_verse_-0-0--",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-12-0-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "gabriel-stroje-a-zarizeni"
+    },
+    "generatedAt": 1658413371955
+  }
+}
