@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: poezie
+  isbn: 978-80-274-2683-6
 readingOrder:
   - promo.html
   - stroje_a_zarizeni_005.html
@@ -166,7 +167,7 @@ tocBase:
           - link: stroje_a_zarizeni_025.html
             title: Letní blesky
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: stroje_a_zarizeni_026.html
         title: NÁLEZY
         hiddenTitle: false
@@ -174,7 +175,7 @@ tocBase:
           - link: stroje_a_zarizeni_027.html
             title: Hřbitovy vyřeší všechny problémy za nás ...
             hiddenTitle: true
-        listType: bulleted
+        listType: plain
       - link: stroje_a_zarizeni_028.html
         title: NA KONCI TÝDNE
         hiddenTitle: false
@@ -332,7 +333,7 @@ tocBase:
           - link: stroje_a_zarizeni_079.html
             title: '* * * (Až kam lze natáhnout ruku)'
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
       - link: stroje_a_zarizeni_080.html
         title: STROJE A ZAŘÍZENÍ
         hiddenTitle: false
@@ -358,7 +359,7 @@ tocBase:
           - link: stroje_a_zarizeni_087.html
             title: '* (Nakonec všechno proběhlo jak má)'
             hiddenTitle: false
-        listType: bulleted
+        listType: plain
     isSection: true
     listType: plain
 static:
