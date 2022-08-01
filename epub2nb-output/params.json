@@ -9,7 +9,8 @@
       "modified": "2021-10-22T00:00:00.000Z",
       "contentType": "poetry",
       "publisherShort": "mkp",
-      "edition": "poezie"
+      "edition": "poezie",
+      "isbn": "978-80-274-2683-6"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -91,7 +92,7 @@
             "xhtml": "stroje_a_zarizeni_005.xhtml",
             "id": 4,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -365,7 +366,7 @@
             "xhtml": "stroje_a_zarizeni_026.xhtml",
             "id": 25,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -382,8 +383,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Hřbitovy vyřeší všechny problémy za nás ..."
+                "title": "Hřbitovy vyřeší všechny problémy za nás ...",
+                "children": []
               }
             ]
           },
@@ -392,7 +393,7 @@
             "xhtml": "stroje_a_zarizeni_028.xhtml",
             "id": 27,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -448,8 +449,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Chodníky ..."
+                "title": "Chodníky ...",
+                "children": []
               },
               {
                 "filename": "stroje_a_zarizeni_033.md",
@@ -461,8 +462,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Každá barva ..."
+                "title": "Každá barva ...",
+                "children": []
               },
               {
                 "filename": "stroje_a_zarizeni_034.md",
@@ -474,8 +475,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "V účesech dam ..."
+                "title": "V účesech dam ...",
+                "children": []
               },
               {
                 "filename": "stroje_a_zarizeni_035.md",
@@ -487,8 +488,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dívali se na mě ..."
+                "title": "Dívali se na mě ...",
+                "children": []
               },
               {
                 "filename": "stroje_a_zarizeni_036.md",
@@ -1069,7 +1070,7 @@
             "xhtml": "stroje_a_zarizeni_080.xhtml",
             "id": 79,
             "role": "break",
-            "listType": "bulleted",
+            "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
@@ -1086,8 +1087,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Klubka vlny se odvíjejí mění barvu ..."
+                "title": "Klubka vlny se odvíjejí mění barvu ...",
+                "children": []
               },
               {
                 "filename": "stroje_a_zarizeni_082.md",
@@ -1791,6 +1792,6 @@
       "user": "books-are-next",
       "repo": "gabriel-stroje-a-zarizeni"
     },
-    "generatedAt": 1658482577597
+    "generatedAt": 1659359974132
   }
 }
