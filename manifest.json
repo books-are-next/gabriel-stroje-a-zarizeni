@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gabriel-stroje-a-zarizeni-1ed9594",
-  "revision": "1ed9594",
+  "identifier": "gabriel-stroje-a-zarizeni-094903b",
+  "revision": "094903b",
   "readingOrder": [
     "promo.html",
     "stroje_a_zarizeni_005.html",
@@ -98,8 +98,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:23:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486604710
+    "date": "Sat Oct 01 2022 15:50:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639452143
   },
   "documents": [
     {
