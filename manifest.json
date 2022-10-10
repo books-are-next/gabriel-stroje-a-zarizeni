@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gabriel-stroje-a-zarizeni-ecd9af7",
-  "revision": "ecd9af7",
+  "identifier": "gabriel-stroje-a-zarizeni-3667ebc",
+  "revision": "3667ebc",
   "readingOrder": [
     "promo.html",
     "stroje_a_zarizeni_005.html",
@@ -98,8 +98,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:55:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150912540
+    "date": "Mon Oct 10 2022 15:46:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416780992
   },
   "documents": [
     {
@@ -1778,7 +1778,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 911,
+      "chars": 912,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1798,7 +1798,7 @@
   "totals": {
     "all": {
       "words": 6652,
-      "chars": 39065,
+      "chars": 39066,
       "ideas": 1488
     },
     "chapters": {
